@@ -8,12 +8,14 @@
     <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/112-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a></p>
 <br>
 
+<p>
 <img align="left" src="https://media.giphy.com/media/j0kQJxo5mzGYb4EvWK/giphy.gif">
 
 👋 I am a front-end developer and architect of enterprise-scale design systems for Red Hat. I help to keep several RedHatOfficial repositories maintained and healthy. My primary focus is the <img src="https://raw.githubusercontent.com/patternfly/patternfly-elements/master/favicon.ico" height="12" width="12" style="display: inline"/>[PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
-I am deeply passionate about web components, the evolution of CSS, and the normalization of accessibility in the web development community.</p>
-Check out my [personal site](http://castastrophe.com/).
 
+I am deeply passionate about web components, the evolution of CSS, and the normalization of accessibility in the web development community.
 
+Visit my [site](http://castastrophe.com/) for more about what makes me tick.
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=castastrophe&&show_icons=true" alt="" role="presentation" />
