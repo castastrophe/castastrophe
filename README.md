@@ -12,7 +12,7 @@
 
 ### 👋 I'm Cassondra
 
-I am a front-end developer and architect of enterprise-scale design systems for Red Hat. I help to keep several RedHatOfficial repositories maintained and healthy. My primary focus is the <img src="https://raw.githubusercontent.com/patternfly/patternfly-elements/master/favicon.ico" height="12" width="12" style="display: inline"/>[PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
+I am a front-end developer and architect of enterprise-scale design systems for Red Hat. I help to keep several RedHatOfficial repositories maintained and healthy. My primary focus is the <img src="https://raw.githubusercontent.com/patternfly/patternfly-elements/master/favicon.ico" height="12" width="12" style="display: inline"/>&nbsp;[PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
 
 I am deeply passionate about web components, the evolution of CSS, and the normalization of accessibility in the web development community.
 
