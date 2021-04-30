@@ -8,9 +8,9 @@
     <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/112-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a></p>
 <br><br>
 
-<img align="right" src="https://media.giphy.com/media/hX4Qi4GJhJCog/giphy.gif">
-
 ### 👋 I'm Cassondra
+
+<img align="right" src="https://media.giphy.com/media/hX4Qi4GJhJCog/giphy.gif" width="400" alt="Sheepish looking pony with rainbow hair">
 
 I am a front-end developer and architect of enterprise-scale design systems for Red Hat. I help to keep several RedHatOfficial repositories maintained and healthy. My primary focus is the <img src="https://raw.githubusercontent.com/patternfly/patternfly-elements/master/favicon.ico" height="12" width="12" style="display: inline"/>&nbsp;[PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
 
