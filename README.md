@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/hX4Qi4GJhJCog/giphy.gif" width="400" alt="Sheepish looking pony with rainbow hair">
 
-I am a front-end developer and architect of enterprise-scale design systems for Red Hat. I help to keep several RedHatOfficial repositories maintained and healthy. My primary focus is the <img src="https://raw.githubusercontent.com/patternfly/patternfly-elements/master/favicon.ico" height="12" width="12" style="display: inline"/>&nbsp;[PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
+I am a front-end developer and architect of enterprise-scale design systems for Adobe; previously of Red Hat. My primary focus is the Spectrum Web Components project. I was a founding contributor to the <img src="https://raw.githubusercontent.com/patternfly/patternfly-elements/master/favicon.ico" height="12" width="12" style="display: inline"/>&nbsp;[PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
 
 I am deeply passionate about web components, the evolution of CSS, and the normalization of accessibility in the web development community.
 
