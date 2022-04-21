@@ -2,10 +2,10 @@
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/castastrophee?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/castastrophe">
     <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/castastrophe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://codepen.io/castastrophee/">
-    <img alt="followers" title="Follow me on CodePen" src="https://img.shields.io/badge/14-1?color=640464&labelColor=7c007c&style=for-the-badge&logo=codepen&label=Follow"/></a>
+  <a href="https://codepen.io/castastrophe/">
+    <img alt="followers" title="Follow me on CodePen" src="https://img.shields.io/badge/16-1?color=640464&labelColor=7c007c&style=for-the-badge&logo=codepen&label=Follow"/></a>
 <a href="https://castastrophe.medium.com/">
-    <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/113-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a></p>
+    <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/107-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a></p>
 <br>
 
 ### 👋 I'm Cassondra
