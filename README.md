@@ -11,12 +11,12 @@
 </p>
 <br>
 
-### 👋 I'm Cassondra
+<img align="left" src="https://user-images.githubusercontent.com/1840295/200224980-bc8cc09c-aa93-4cfd-8ea1-7b3be506a45f.jpeg" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
 
-<img align="right" src="https://media.giphy.com/media/hX4Qi4GJhJCog/giphy.gif" width="400" alt="Sheepish looking pony with rainbow hair">
+### 👋 I'm Cassondra [ @castastrophe ]
 
 I am a front-end developer and architect of enterprise-scale design systems for Adobe; previously of Red Hat. My primary focus is the Spectrum design system, helping to combine elements into reusable pattern sets for use across all web products. I was a founding contributor to the [PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
 
 I am deeply passionate about web components, the evolution of CSS, and the normalization of accessibility in the web development community.
 
-Visit my [site](http://allons-y.llc/) for more about how we can work together.
+Visit [allons-y.llc](http://allons-y.llc/) for more about how we can work together.
