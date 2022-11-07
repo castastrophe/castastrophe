@@ -1,4 +1,4 @@
-<p><a href="https://front-end.social/web/@castastrophe">
+<p><a rel="me" href="https://front-end.social/@castastrophe">
     <img alt="followers" title="Follow me on Mastodon" src="https://img.shields.io/mastodon/follow/109297102751309835?domain=https%3A%2F%2Ffront-end.social&label=Follow&logo=mastodon&logoColor=white&style=for-the-badge&labelColor=008080&color=006969"/></a>
   <a href="https://github.com/castastrophe">
     <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/castastrophe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
