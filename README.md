@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<img align="left" src="https://user-images.githubusercontent.com/1840295/206933776-653f5672-0008-4a6c-b65c-e52905a181c4.png" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
+<img align="left" src="[https://user-images.githubusercontent.com/1840295/206933776-653f5672-0008-4a6c-b65c-e52905a181c4.png](https://user-images.githubusercontent.com/1840295/206934000-089caf34-e71c-4a74-818a-a72559910f83.png)" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
 
 ### [ Cassondra ]
 #### [@castastrophe](https://github.com/castastrophe?tab=repositories)
