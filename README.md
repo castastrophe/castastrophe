@@ -11,11 +11,11 @@
 </p>
 <br>
 
-<img align="left" src="https://user-images.githubusercontent.com/1840295/200224980-bc8cc09c-aa93-4cfd-8ea1-7b3be506a45f.jpeg" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
+<img align="left" src="https://user-images.githubusercontent.com/1840295/206933776-653f5672-0008-4a6c-b65c-e52905a181c4.png" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
 
-### 👋 I'm Cassondra [ @castastrophe ]
+### [ Cassondra ] aka castastrophe
 
-I am a front-end developer and architect of enterprise-scale design systems for Adobe; previously of Red Hat. My primary focus is the Spectrum design system, helping to combine elements into reusable pattern sets for use across all web products. I was a founding contributor to the [PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
+Experienced front-end developer and architect of enterprise-scale design systems for Adobe; previously of Red Hat. My primary focus at the moment is the Spectrum design system. I was a founding contributor to the [PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
 
 I am deeply passionate about web components, the evolution of CSS, and the normalization of accessibility in the web development community.
 
