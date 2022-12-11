@@ -13,7 +13,8 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/1840295/206933776-653f5672-0008-4a6c-b65c-e52905a181c4.png" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
 
-### [ Cassondra ] aka castastrophe
+### [ Cassondra ]
+#### [@castastrophe](https://github.com/castastrophe?tab=repositories)
 
 Experienced front-end developer and architect of enterprise-scale design systems for Adobe; previously of Red Hat. My primary focus at the moment is the Spectrum design system. I was a founding contributor to the [PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project; a community implementation of the PatternFly design system using web components.
 
