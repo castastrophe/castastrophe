@@ -5,8 +5,8 @@
 <a href="https://castastrophe.medium.com/">
     <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/107-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a>
     </p>
-    
-<img align="left" src="https://user-images.githubusercontent.com/1840295/206934049-c4af0e30-07fa-4c11-9d67-c4c8cf763f77.png" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
+
+<img align="left" src="https://user-images.githubusercontent.com/1840295/206950565-9198ef98-af4d-4473-a112-0e645860fe08.png" width="250" alt="Profile image of a red-haired woman with long bangs and a big smile">
 
 ## [ Cassondra ]
     
