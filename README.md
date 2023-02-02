@@ -6,7 +6,7 @@
     <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/107-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a>
     </p>
 <p>
-<img align="right" src="https://user-images.githubusercontent.com/1840295/209837133-f6b4d7a5-2117-4634-83b8-a635fb49a96a.png" width="350" alt="Profile image of a red-haired woman with long bangs and a big smile">
+<img align="right" src="https://user-images.githubusercontent.com/1840295/209837133-f6b4d7a5-2117-4634-83b8-a635fb49a96a.png" height="300" alt="Profile image of a red-haired woman with long bangs and a big smile">
 </p>
 
 ## [ Cassondra ]
