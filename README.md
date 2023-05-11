@@ -14,4 +14,6 @@ Experienced front-end developer and architect of enterprise-scale design systems
 
 Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work together!
 
+### Recent activity
+
 <!--START_SECTION:activity-->
