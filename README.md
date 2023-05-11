@@ -13,3 +13,7 @@
 Experienced front-end developer and architect of enterprise-scale design systems for Adobe; previously of Red Hat. My primary focus at the moment is the [Spectrum design system](https://github.com/adobe/spectrum-css). As a founding contributor to the [PatternFly&nbsp;Elements](https://github.com/patternfly/patternfly-elements) project&mdash;a community implementation of the PatternFly design system&mdash;I became intimately familiar with the nuances of styling web components. To this end, I have been compiling a book with my learnings and hope to make it available later this year.
 
 Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work together!
+
+### Recent activity
+
+<!--START_SECTION:activity-->
