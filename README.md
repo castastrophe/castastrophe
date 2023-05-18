@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1883](https://github.com/adobe/spectrum-css/pull/1883) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🗣 Commented on [#9](https://github.com/11ty/eleventy-dev-server/issues/9) in [11ty/eleventy-dev-server](https://github.com/11ty/eleventy-dev-server)
-3. 🗣 Commented on [#1787](https://github.com/adobe/spectrum-css/issues/1787) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#1874](https://github.com/adobe/spectrum-css/pull/1874) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🗣 Commented on [#1858](https://github.com/adobe/spectrum-css/issues/1858) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#1883](https://github.com/adobe/spectrum-css/pull/1883) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 💪 Opened PR [#1883](https://github.com/adobe/spectrum-css/pull/1883) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#9](https://github.com/11ty/eleventy-dev-server/issues/9) in [11ty/eleventy-dev-server](https://github.com/11ty/eleventy-dev-server)
+4. 🗣 Commented on [#1787](https://github.com/adobe/spectrum-css/issues/1787) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#1874](https://github.com/adobe/spectrum-css/pull/1874) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
