@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1898](https://github.com/adobe/spectrum-css/pull/1898) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#1897](https://github.com/adobe/spectrum-css/pull/1897) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 💪 Opened PR [#1897](https://github.com/adobe/spectrum-css/pull/1897) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#3](https://github.com/castastrophe/actions-pr-auto-update/pull/3) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-5. 💪 Opened PR [#3](https://github.com/castastrophe/actions-pr-auto-update/pull/3) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+1. 🗣 Commented on [#1](https://github.com/castastrophe/actions-pr-auto-update/issues/1) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+2. 🗣 Commented on [#3](https://github.com/castastrophe/actions-pr-auto-update/issues/3) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+3. 🎉 Merged PR [#1898](https://github.com/adobe/spectrum-css/pull/1898) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#1897](https://github.com/adobe/spectrum-css/pull/1897) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 💪 Opened PR [#1897](https://github.com/adobe/spectrum-css/pull/1897) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
