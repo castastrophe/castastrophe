@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1911](https://github.com/adobe/spectrum-css/pull/1911) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#4](https://github.com/castastrophe/postcss-droproot/pull/4) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-3. 🗣 Commented on [#1787](https://github.com/adobe/spectrum-css/issues/1787) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#3](https://github.com/castastrophe/postcss-droproot/pull/3) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-5. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-var-fallback/pull/6) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
+1. 🎉 Merged PR [#18](https://github.com/castastrophe/postcss-dropdupedvars/pull/18) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+2. 🎉 Merged PR [#19](https://github.com/castastrophe/postcss-dropdupedvars/pull/19) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+3. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-strip-comments/pull/7) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+4. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-remapvars/pull/7) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+5. 🎉 Merged PR [#1911](https://github.com/adobe/spectrum-css/pull/1911) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
