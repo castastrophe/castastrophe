@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-var-fallback/pull/7) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
-2. 🎉 Merged PR [#9](https://github.com/castastrophe/actions-pr-auto-update/pull/9) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-3. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-transform-selectors/pull/12) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-4. 🎉 Merged PR [#10](https://github.com/castastrophe/postcss-transform-logical/pull/10) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-5. 🎉 Merged PR [#9](https://github.com/castastrophe/postcss-splitinator/pull/9) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
+1. 🎉 Merged PR [#3](https://github.com/castastrophe/postcss-combininator/pull/3) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
+2. 🎉 Merged PR [#1907](https://github.com/adobe/spectrum-css/pull/1907) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-var-fallback/pull/7) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
+4. 🎉 Merged PR [#9](https://github.com/castastrophe/actions-pr-auto-update/pull/9) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+5. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-transform-selectors/pull/12) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
 <!--END_SECTION:activity-->
