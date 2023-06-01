@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1911](https://github.com/adobe/spectrum-css/pull/1911) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#3](https://github.com/castastrophe/postcss-combininator/pull/3) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
-3. 🎉 Merged PR [#1907](https://github.com/adobe/spectrum-css/pull/1907) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-var-fallback/pull/7) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
-5. 🎉 Merged PR [#9](https://github.com/castastrophe/actions-pr-auto-update/pull/9) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+1. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-var-fallback/pull/6) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
+2. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/5) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+3. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/6) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+4. 🎉 Merged PR [#8](https://github.com/castastrophe/postcss-licensing/pull/8) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+5. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-licensing/pull/7) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
 <!--END_SECTION:activity-->
