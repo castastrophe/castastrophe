@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-var-fallback/pull/6) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
-2. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/5) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-3. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/6) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-4. 🎉 Merged PR [#8](https://github.com/castastrophe/postcss-licensing/pull/8) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-5. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-licensing/pull/7) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 🗣 Commented on [#1787](https://github.com/adobe/spectrum-css/issues/1787) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#3](https://github.com/castastrophe/postcss-droproot/pull/3) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+3. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-var-fallback/pull/6) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
+4. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/5) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+5. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/6) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
 <!--END_SECTION:activity-->
