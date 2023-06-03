@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4314](https://github.com/yarnpkg/berry/pull/4314) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-2. ❗ Opened issue [#10](https://github.com/castastrophe/postcss-dropunusedvars/issues/10) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-3. ❗ Opened issue [#5](https://github.com/castastrophe/postcss-combininator/issues/5) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
-4. ❗ Opened issue [#4](https://github.com/castastrophe/postcss-combininator/issues/4) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
-5. ❗ Opened issue [#2](https://github.com/castastrophe/postcss-custom-prop-sorting/issues/2) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+1. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-var-fallback/pull/5) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
+2. ❌ Closed PR [#4314](https://github.com/yarnpkg/berry/pull/4314) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+3. ❗ Opened issue [#10](https://github.com/castastrophe/postcss-dropunusedvars/issues/10) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+4. ❗ Opened issue [#5](https://github.com/castastrophe/postcss-combininator/issues/5) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
+5. ❗ Opened issue [#4](https://github.com/castastrophe/postcss-combininator/issues/4) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
 <!--END_SECTION:activity-->
