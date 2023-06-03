@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/castastrophe/postcss-dropunusedvars/pull/9) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-2. 💪 Opened PR [#1914](https://github.com/adobe/spectrum-css/pull/1914) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#1913](https://github.com/adobe/spectrum-css/pull/1913) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 💪 Opened PR [#1913](https://github.com/adobe/spectrum-css/pull/1913) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#18](https://github.com/castastrophe/postcss-dropdupedvars/pull/18) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+1. 🔒 Closed issue [#27](https://github.com/RedHatOfficial/rh-iconfont/issues/27) in [RedHatOfficial/rh-iconfont](https://github.com/RedHatOfficial/rh-iconfont)
+2. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-rgb-mapping/pull/6) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+3. 🎉 Merged PR [#9](https://github.com/castastrophe/postcss-remapvars/pull/9) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+4. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-rgb-mapping/pull/7) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+5. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-remapvars/pull/12) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
 <!--END_SECTION:activity-->
