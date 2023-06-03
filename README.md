@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/RedHatOfficial/rh-iconfont/issues/27) in [RedHatOfficial/rh-iconfont](https://github.com/RedHatOfficial/rh-iconfont)
-2. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-rgb-mapping/pull/6) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
-3. 🎉 Merged PR [#9](https://github.com/castastrophe/postcss-remapvars/pull/9) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
-4. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-rgb-mapping/pull/7) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
-5. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-remapvars/pull/12) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+1. ❗ Opened issue [#4](https://github.com/castastrophe/postcss-combininator/issues/4) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
+2. ❗ Opened issue [#2](https://github.com/castastrophe/postcss-custom-prop-sorting/issues/2) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🗣 Commented on [#2063](https://github.com/patternfly/patternfly-elements/issues/2063) in [patternfly/patternfly-elements](https://github.com/patternfly/patternfly-elements)
+4. 🗣 Commented on [#48](https://github.com/etchteam/storybook-addon-status/issues/48) in [etchteam/storybook-addon-status](https://github.com/etchteam/storybook-addon-status)
+5. 🔒 Closed issue [#48](https://github.com/etchteam/storybook-addon-status/issues/48) in [etchteam/storybook-addon-status](https://github.com/etchteam/storybook-addon-status)
 <!--END_SECTION:activity-->
