@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-var-fallback/pull/5) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
-2. ❌ Closed PR [#4314](https://github.com/yarnpkg/berry/pull/4314) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-3. ❗ Opened issue [#10](https://github.com/castastrophe/postcss-dropunusedvars/issues/10) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-4. ❗ Opened issue [#5](https://github.com/castastrophe/postcss-combininator/issues/5) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
-5. ❗ Opened issue [#4](https://github.com/castastrophe/postcss-combininator/issues/4) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
+1. 🗣 Commented on [#8](https://github.com/castastrophe/postcss-vars-add-fallback/issues/8) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+2. 🎉 Merged PR [#3](https://github.com/castastrophe/postcss-vars-add-fallback/pull/3) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+3. 🎉 Merged PR [#1](https://github.com/castastrophe/postcss-vars-add-fallback/pull/1) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+4. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-var-fallback/pull/5) in [castastrophe/postcss-var-fallback](https://github.com/castastrophe/postcss-var-fallback)
+5. ❌ Closed PR [#4314](https://github.com/yarnpkg/berry/pull/4314) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
 <!--END_SECTION:activity-->
