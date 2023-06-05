@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/castastrophe/postcss-transform-selectors/issues/7) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-2. 🚀 Published release [Initial repository setup](https://github.com/Initial repository setup) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-3. 🔒 Closed issue [#8](https://github.com/castastrophe/postcss-vars-add-fallback/issues/8) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-4. 🚀 Published release [Initial repository setup](https://github.com/Initial repository setup) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-5. 🗣 Commented on [#8](https://github.com/castastrophe/postcss-vars-add-fallback/issues/8) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+1. 🎉 Merged PR [#9](https://github.com/castastrophe/postcss-dropunusedvars/pull/9) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+2. 🔒 Closed issue [#10](https://github.com/castastrophe/postcss-dropunusedvars/issues/10) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+3. 🔒 Closed issue [#7](https://github.com/castastrophe/postcss-transform-selectors/issues/7) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+4. 🚀 Published release [Initial repository setup](https://github.com/Initial repository setup) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+5. 🔒 Closed issue [#8](https://github.com/castastrophe/postcss-vars-add-fallback/issues/8) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
 <!--END_SECTION:activity-->
