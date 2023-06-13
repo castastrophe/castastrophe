@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/7) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-2. 🚀 Published release [v1.1.0](https://github.com/v1.1.0) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-3. 🎉 Merged PR [#11](https://github.com/castastrophe/postcss-dropunusedvars/pull/11) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-4. 💪 Opened PR [#11](https://github.com/castastrophe/postcss-dropunusedvars/pull/11) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-5. 🚀 Published release [v2.0.0](https://github.com/v2.0.0) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+1. 🎉 Merged PR [#44](https://github.com/castastrophe/plop-pack-align-package-versions/pull/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+2. 🗣 Commented on [#44](https://github.com/castastrophe/plop-pack-align-package-versions/issues/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+3. 🎉 Merged PR [#43](https://github.com/castastrophe/plop-pack-align-package-versions/pull/43) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+4. 🗣 Commented on [#43](https://github.com/castastrophe/plop-pack-align-package-versions/issues/43) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+5. ❗ Opened issue [#9](https://github.com/castastrophe/stylelint-header/issues/9) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
