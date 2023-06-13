@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/castastrophe/plop-pack-align-package-versions/pull/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-2. 🗣 Commented on [#44](https://github.com/castastrophe/plop-pack-align-package-versions/issues/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-3. 🎉 Merged PR [#43](https://github.com/castastrophe/plop-pack-align-package-versions/pull/43) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-4. 🗣 Commented on [#43](https://github.com/castastrophe/plop-pack-align-package-versions/issues/43) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-5. ❗ Opened issue [#9](https://github.com/castastrophe/stylelint-header/issues/9) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+1. 🗣 Commented on [#1937](https://github.com/adobe/spectrum-css/issues/1937) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#44](https://github.com/castastrophe/plop-pack-align-package-versions/pull/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+3. 🗣 Commented on [#44](https://github.com/castastrophe/plop-pack-align-package-versions/issues/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+4. 🎉 Merged PR [#43](https://github.com/castastrophe/plop-pack-align-package-versions/pull/43) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+5. 🗣 Commented on [#43](https://github.com/castastrophe/plop-pack-align-package-versions/issues/43) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
 <!--END_SECTION:activity-->
