@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/castastrophe/portfolio/pull/15) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-2. 💪 Opened PR [#15](https://github.com/castastrophe/portfolio/pull/15) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-3. 🗣 Commented on [#1938](https://github.com/adobe/spectrum-css/issues/1938) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#1937](https://github.com/adobe/spectrum-css/issues/1937) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#44](https://github.com/castastrophe/plop-pack-align-package-versions/pull/44) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+1. 🎉 Merged PR [#46](https://github.com/castastrophe/plop-pack-align-package-versions/pull/46) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+2. 🎉 Merged PR [#15](https://github.com/castastrophe/portfolio/pull/15) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+3. 💪 Opened PR [#15](https://github.com/castastrophe/portfolio/pull/15) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+4. 🗣 Commented on [#1938](https://github.com/adobe/spectrum-css/issues/1938) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🗣 Commented on [#1937](https://github.com/adobe/spectrum-css/issues/1937) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
