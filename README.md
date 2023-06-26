@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.0](https://github.com/v2.2.0) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-2. 🚀 Published release [v2.1.0](https://github.com/v2.1.0) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-3. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-dropunusedvars/pull/13) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-4. 🎉 Merged PR [#1964](https://github.com/adobe/spectrum-css/pull/1964) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#13](https://github.com/castastrophe/postcss-dropunusedvars/pull/13) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+1. 💪 Opened PR [#8](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/8) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+2. 🗣 Commented on [#14](https://github.com/castastrophe/postcss-dropunusedvars/issues/14) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+3. 🚀 Published release [v2.2.1](https://github.com/v2.2.1) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+4. 🎉 Merged PR [#14](https://github.com/castastrophe/postcss-dropunusedvars/pull/14) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+5. 💪 Opened PR [#14](https://github.com/castastrophe/postcss-dropunusedvars/pull/14) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
 <!--END_SECTION:activity-->
