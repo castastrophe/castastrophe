@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1979](https://github.com/adobe/spectrum-css/pull/1979) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#1978](https://github.com/adobe/spectrum-css/pull/1978) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 💪 Opened PR [#1979](https://github.com/adobe/spectrum-css/pull/1979) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Reopened PR [#1978](https://github.com/adobe/spectrum-css/pull/1978) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#1978](https://github.com/adobe/spectrum-css/pull/1978) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#1984](https://github.com/adobe/spectrum-css/pull/1984) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 💪 Opened PR [#152](https://github.com/adobe/spectrum-tokens/pull/152) in [adobe/spectrum-tokens](https://github.com/adobe/spectrum-tokens)
+3. 🗣 Commented on [#151](https://github.com/adobe/spectrum-tokens/issues/151) in [adobe/spectrum-tokens](https://github.com/adobe/spectrum-tokens)
+4. ❗ Opened issue [#151](https://github.com/adobe/spectrum-tokens/issues/151) in [adobe/spectrum-tokens](https://github.com/adobe/spectrum-tokens)
+5. 🗣 Commented on [#1969](https://github.com/adobe/spectrum-css/issues/1969) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
