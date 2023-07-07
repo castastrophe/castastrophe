@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/v2.0.0) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-2. 🎉 Merged PR [#7](https://github.com/castastrophe/postcss-droproot/pull/7) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-3. 💪 Opened PR [#7](https://github.com/castastrophe/postcss-droproot/pull/7) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-4. 🎉 Merged PR [#3](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/3) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-5. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-licensing/pull/15) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-droproot/pull/5) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+2. 🎉 Merged PR [#9](https://github.com/castastrophe/postcss-droproot/pull/9) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+3. 💪 Opened PR [#9](https://github.com/castastrophe/postcss-droproot/pull/9) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+4. 💪 Opened PR [#8](https://github.com/castastrophe/postcss-droproot/pull/8) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+5. 🚀 Published release [v2.0.0](https://github.com/v2.0.0) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
 <!--END_SECTION:activity-->
