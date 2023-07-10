@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/10) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-2. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-vars-add-fallback/pull/13) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-3. 🎉 Merged PR [#16](https://github.com/castastrophe/postcss-splitinator/pull/16) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
-4. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-splitinator/pull/13) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
-5. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-splitinator/pull/15) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
+1. 🗣 Commented on [#15](https://github.com/castastrophe/stylelint-header/issues/15) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🗣 Commented on [#15](https://github.com/castastrophe/stylelint-header/issues/15) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 🗣 Commented on [#12](https://github.com/castastrophe/stylelint-header/issues/12) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-vars-add-fallback/pull/12) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+5. 🎉 Merged PR [#10](https://github.com/castastrophe/postcss-strip-comments/pull/10) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
 <!--END_SECTION:activity-->
