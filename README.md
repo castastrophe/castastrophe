@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-splitinator/pull/13) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
-2. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-splitinator/pull/15) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
-3. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-licensing/pull/13) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-4. 🎉 Merged PR [#14](https://github.com/castastrophe/postcss-transform-logical/pull/14) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-5. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-transform-logical/pull/12) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+1. 🎉 Merged PR [#10](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/10) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+2. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-vars-add-fallback/pull/13) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+3. 🎉 Merged PR [#16](https://github.com/castastrophe/postcss-splitinator/pull/16) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
+4. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-splitinator/pull/13) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
+5. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-splitinator/pull/15) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
 <!--END_SECTION:activity-->
