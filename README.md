@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-rgb-mapping/pull/12) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
-2. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-rgb-mapping/pull/13) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
-3. 🎉 Merged PR [#25](https://github.com/castastrophe/postcss-dropdupedvars/pull/25) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
-4. 🎉 Merged PR [#20](https://github.com/castastrophe/postcss-dropdupedvars/pull/20) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
-5. 🎉 Merged PR [#18](https://github.com/castastrophe/postcss-remapvars/pull/18) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+1. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-splitinator/pull/13) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
+2. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-splitinator/pull/15) in [castastrophe/postcss-splitinator](https://github.com/castastrophe/postcss-splitinator)
+3. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-licensing/pull/13) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🎉 Merged PR [#14](https://github.com/castastrophe/postcss-transform-logical/pull/14) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+5. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-transform-logical/pull/12) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
 <!--END_SECTION:activity-->
