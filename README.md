@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/castastrophe/postcss-droproot/pull/8) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-2. 🎉 Merged PR [#10](https://github.com/castastrophe/postcss-droproot/pull/10) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-3. 💪 Opened PR [#10](https://github.com/castastrophe/postcss-droproot/pull/10) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-4. 🎉 Merged PR [#5](https://github.com/castastrophe/postcss-droproot/pull/5) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-5. 🎉 Merged PR [#9](https://github.com/castastrophe/postcss-droproot/pull/9) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+1. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-rgb-mapping/pull/12) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+2. 🎉 Merged PR [#13](https://github.com/castastrophe/postcss-rgb-mapping/pull/13) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+3. 🎉 Merged PR [#25](https://github.com/castastrophe/postcss-dropdupedvars/pull/25) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+4. 🎉 Merged PR [#20](https://github.com/castastrophe/postcss-dropdupedvars/pull/20) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+5. 🎉 Merged PR [#18](https://github.com/castastrophe/postcss-remapvars/pull/18) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
 <!--END_SECTION:activity-->
