@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2025](https://github.com/adobe/spectrum-css/pull/2025) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#2022](https://github.com/adobe/spectrum-css/pull/2022) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#2024](https://github.com/adobe/spectrum-css/pull/2024) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#51](https://github.com/castastrophe/plop-pack-align-package-versions/pull/51) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-5. 🎉 Merged PR [#10](https://github.com/castastrophe/storybook-addon-context-decorators/pull/10) in [castastrophe/storybook-addon-context-decorators](https://github.com/castastrophe/storybook-addon-context-decorators)
+1. 🗣 Commented on [#1880](https://github.com/adobe/spectrum-css/issues/1880) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 💪 Opened PR [#2025](https://github.com/adobe/spectrum-css/pull/2025) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#2022](https://github.com/adobe/spectrum-css/pull/2022) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#2024](https://github.com/adobe/spectrum-css/pull/2024) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#51](https://github.com/castastrophe/plop-pack-align-package-versions/pull/51) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
 <!--END_SECTION:activity-->
