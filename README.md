@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2014](https://github.com/adobe/spectrum-css/pull/2014) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#1963](https://github.com/adobe/spectrum-css/pull/1963) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#1990](https://github.com/adobe/spectrum-css/pull/1990) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#1994](https://github.com/adobe/spectrum-css/pull/1994) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#2003](https://github.com/adobe/spectrum-css/pull/2003) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#2024](https://github.com/adobe/spectrum-css/pull/2024) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#51](https://github.com/castastrophe/plop-pack-align-package-versions/pull/51) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+3. 🎉 Merged PR [#10](https://github.com/castastrophe/storybook-addon-context-decorators/pull/10) in [castastrophe/storybook-addon-context-decorators](https://github.com/castastrophe/storybook-addon-context-decorators)
+4. ❌ Closed PR [#1914](https://github.com/adobe/spectrum-css/pull/1914) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Closed PR [#1956](https://github.com/adobe/spectrum-css/pull/1956) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
