@@ -19,7 +19,7 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2026](https://github.com/adobe/spectrum-css/pull/2026) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 2. 🎉 Merged PR [#2019](https://github.com/adobe/spectrum-css/pull/2019) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🗣 Commented on [#1880](https://github.com/adobe/spectrum-css/issues/1880) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#1880](https://github.com/adobe/spectrum-css/issues/1880#issuecomment-1633032002) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 4. 💪 Opened PR [#2025](https://github.com/adobe/spectrum-css/pull/2025) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 5. 🎉 Merged PR [#2022](https://github.com/adobe/spectrum-css/pull/2022) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
