@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/castastrophe/postcss-dropdupedvars/pull/26) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
-2. 🎉 Merged PR [#14](https://github.com/castastrophe/postcss-strip-comments/pull/14) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-3. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-vars-add-fallback/pull/15) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-4. 🎉 Merged PR [#11](https://github.com/castastrophe/postcss-droproot/pull/11) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-5. 🎉 Merged PR [#16](https://github.com/castastrophe/postcss-transform-logical/pull/16) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+1. 🎉 Merged PR [#53](https://github.com/castastrophe/plop-pack-align-package-versions/pull/53) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+2. 🎉 Merged PR [#2034](https://github.com/adobe/spectrum-css/pull/2034) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#26](https://github.com/castastrophe/postcss-dropdupedvars/pull/26) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+4. 🎉 Merged PR [#14](https://github.com/castastrophe/postcss-strip-comments/pull/14) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+5. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-vars-add-fallback/pull/15) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
 <!--END_SECTION:activity-->
