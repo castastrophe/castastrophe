@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/castastrophe/postcss-strip-comments/pull/15) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-2. 🎉 Merged PR [#15](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/15) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. 🔒 Closed issue [#2](https://github.com/castastrophe/postcss-custom-prop-sorting/issues/2) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-4. 🎉 Merged PR [#1](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/1) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-5. 🎉 Merged PR [#6](https://github.com/castastrophe/postcss-combininator/pull/6) in [castastrophe/postcss-combininator](https://github.com/castastrophe/postcss-combininator)
+1. 🎉 Merged PR [#20](https://github.com/castastrophe/postcss-remapvars/pull/20) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+2. 💪 Opened PR [#20](https://github.com/castastrophe/postcss-remapvars/pull/20) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+3. 🔒 Closed issue [#8](https://github.com/castastrophe/postcss-strip-comments/issues/8) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+4. 🎉 Merged PR [#19](https://github.com/castastrophe/postcss-strip-comments/pull/19) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+5. 🎉 Merged PR [#20](https://github.com/castastrophe/postcss-strip-comments/pull/20) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
 <!--END_SECTION:activity-->
