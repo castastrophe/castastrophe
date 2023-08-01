@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2059](https://github.com/adobe/spectrum-css/pull/2059) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#17](https://github.com/castastrophe/stylelint-header/pull/17) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 🎉 Merged PR [#3](https://github.com/castastrophe/latest-package/pull/3) in [castastrophe/latest-package](https://github.com/castastrophe/latest-package)
-4. 🎉 Merged PR [#11](https://github.com/castastrophe/storybook-addon-context-decorators/pull/11) in [castastrophe/storybook-addon-context-decorators](https://github.com/castastrophe/storybook-addon-context-decorators)
-5. 🎉 Merged PR [#12](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/12) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+1. ❌ Closed PR [#2060](https://github.com/adobe/spectrum-css/pull/2060) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🗣 Commented on [#2060](https://github.com/adobe/spectrum-css/pull/2060#issuecomment-1660740071) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#2058](https://github.com/adobe/spectrum-css/pull/2058) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#2059](https://github.com/adobe/spectrum-css/pull/2059) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#17](https://github.com/castastrophe/stylelint-header/pull/17) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
