@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/19#issuecomment-1677644073) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. 🎉 Merged PR [#2094](https://github.com/adobe/spectrum-css/pull/2094) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#1796](https://github.com/adobe/spectrum-css/pull/1796) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#1796](https://github.com/adobe/spectrum-css/pull/1796#issuecomment-1677573453) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#1632](https://github.com/adobe/spectrum-css/pull/1632) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#2084](https://github.com/adobe/spectrum-css/pull/2084) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🗣 Commented on [#19](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/19#issuecomment-1677644073) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#2094](https://github.com/adobe/spectrum-css/pull/2094) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Closed PR [#1796](https://github.com/adobe/spectrum-css/pull/1796) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🗣 Commented on [#1796](https://github.com/adobe/spectrum-css/pull/1796#issuecomment-1677573453) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
