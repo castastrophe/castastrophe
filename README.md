@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1943](https://github.com/adobe/spectrum-css/pull/1943) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🗣 Commented on [#25](https://github.com/castastrophe/postcss-remapvars/pull/25#issuecomment-1682419616) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
-3. 🎉 Merged PR [#26](https://github.com/castastrophe/postcss-remapvars/pull/26) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
-4. 🎉 Merged PR [#2089](https://github.com/adobe/spectrum-css/pull/2089) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🗣 Commented on [#24](https://github.com/castastrophe/postcss-strip-comments/pull/24#issuecomment-1682416974) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+1. 🎉 Merged PR [#2101](https://github.com/adobe/spectrum-css/pull/2101) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#1943](https://github.com/adobe/spectrum-css/pull/1943) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#25](https://github.com/castastrophe/postcss-remapvars/pull/25#issuecomment-1682419616) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+4. 🎉 Merged PR [#26](https://github.com/castastrophe/postcss-remapvars/pull/26) in [castastrophe/postcss-remapvars](https://github.com/castastrophe/postcss-remapvars)
+5. 🎉 Merged PR [#2089](https://github.com/adobe/spectrum-css/pull/2089) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
