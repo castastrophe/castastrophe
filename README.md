@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/castastrophe/glob-concat-cli/pull/2) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🎉 Merged PR [#1](https://github.com/castastrophe/glob-concat-cli/pull/1) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-3. 💪 Opened PR [#1](https://github.com/castastrophe/glob-concat-cli/pull/1) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🗣 Commented on [#1854](https://github.com/adobe/spectrum-css/pull/1854#issuecomment-1723421462) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#2157](https://github.com/adobe/spectrum-css/pull/2157) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#6](https://github.com/castastrophe/glob-concat-cli/pull/6) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+2. 🎉 Merged PR [#9](https://github.com/castastrophe/glob-concat-cli/pull/9) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. 🎉 Merged PR [#3](https://github.com/castastrophe/glob-concat-cli/pull/3) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+4. 💪 Opened PR [#9](https://github.com/castastrophe/glob-concat-cli/pull/9) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+5. 🎉 Merged PR [#2](https://github.com/castastrophe/glob-concat-cli/pull/2) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
