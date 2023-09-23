@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/Rajdeepc/spectrum-vscode/issues/2) in [Rajdeepc/spectrum-vscode](https://github.com/Rajdeepc/spectrum-vscode)
-2. 🗣 Commented on [#2](https://github.com/Rajdeepc/spectrum-vscode/issues/2#issuecomment-1732388809) in [Rajdeepc/spectrum-vscode](https://github.com/Rajdeepc/spectrum-vscode)
-3. 🚀 Published release [v1.0.1](https://github.com/castastrophe/glob-concat-cli/releases/tag/v1.0.1) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#4](https://github.com/castastrophe/glob-concat-cli/pull/4) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-5. 🎉 Merged PR [#6](https://github.com/castastrophe/glob-concat-cli/pull/6) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 🗣 Commented on [#20](https://github.com/castastrophe/postcss-dropunusedvars/issues/20#issuecomment-1732393766) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+2. 🎉 Merged PR [#25](https://github.com/castastrophe/postcss-dropunusedvars/pull/25) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+3. ❌ Closed PR [#23](https://github.com/castastrophe/stylelint-header/pull/23) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. ❌ Closed PR [#21](https://github.com/castastrophe/stylelint-header/pull/21) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🎉 Merged PR [#25](https://github.com/castastrophe/postcss-transform-logical/pull/25) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
 <!--END_SECTION:activity-->
