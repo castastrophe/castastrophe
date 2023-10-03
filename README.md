@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2196](https://github.com/adobe/spectrum-css/pull/2196) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. ❌ Closed PR [#2197](https://github.com/adobe/spectrum-css/pull/2197) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#2195](https://github.com/adobe/spectrum-css/pull/2195) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Closed PR [#2194](https://github.com/adobe/spectrum-css/pull/2194) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#2193](https://github.com/adobe/spectrum-css/pull/2193) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❗ Opened issue [#7](https://github.com/DeviesDevelopment/workflow-timer/issues/7) in [DeviesDevelopment/workflow-timer](https://github.com/DeviesDevelopment/workflow-timer)
+2. ❌ Closed PR [#2196](https://github.com/adobe/spectrum-css/pull/2196) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. ❌ Closed PR [#2197](https://github.com/adobe/spectrum-css/pull/2197) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Closed PR [#2195](https://github.com/adobe/spectrum-css/pull/2195) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Closed PR [#2194](https://github.com/adobe/spectrum-css/pull/2194) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
