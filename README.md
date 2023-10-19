@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/castastrophe/glob-concat-cli/pull/10) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🗣 Commented on [#31](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/31#issuecomment-1771571765) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. 🎉 Merged PR [#26](https://github.com/castastrophe/postcss-droproot/pull/26) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-4. 🎉 Merged PR [#28](https://github.com/castastrophe/postcss-rgb-mapping/pull/28) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
-5. 🎉 Merged PR [#36](https://github.com/castastrophe/postcss-strip-comments/pull/36) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+1. 🎉 Merged PR [#24](https://github.com/castastrophe/postcss-droproot/pull/24) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+2. 🎉 Merged PR [#21](https://github.com/castastrophe/postcss-droproot/pull/21) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+3. 🎉 Merged PR [#34](https://github.com/castastrophe/postcss-strip-comments/pull/34) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+4. 🎉 Merged PR [#28](https://github.com/castastrophe/postcss-transform-logical/pull/28) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+5. 🎉 Merged PR [#27](https://github.com/castastrophe/postcss-transform-logical/pull/27) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
 <!--END_SECTION:activity-->
