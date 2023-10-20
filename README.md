@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/castastrophe/postcss-droproot/pull/24) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-2. 🎉 Merged PR [#21](https://github.com/castastrophe/postcss-droproot/pull/21) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-3. 🎉 Merged PR [#34](https://github.com/castastrophe/postcss-strip-comments/pull/34) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-4. 🎉 Merged PR [#28](https://github.com/castastrophe/postcss-transform-logical/pull/28) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-5. 🎉 Merged PR [#27](https://github.com/castastrophe/postcss-transform-logical/pull/27) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+1. ❗ Opened issue [#28](https://github.com/castastrophe/postcss-custom-properties-mapping/issues/28) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+2. 🎉 Merged PR [#21](https://github.com/castastrophe/postcss-rgb-mapping/pull/21) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+3. 🗣 Commented on [#21](https://github.com/castastrophe/postcss-rgb-mapping/pull/21#issuecomment-1772936891) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+4. 🎉 Merged PR [#23](https://github.com/castastrophe/postcss-rgb-mapping/pull/23) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+5. 🗣 Commented on [#23](https://github.com/castastrophe/postcss-rgb-mapping/pull/23#issuecomment-1772935929) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
 <!--END_SECTION:activity-->
