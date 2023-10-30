@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/castastrophe/postcss-transform-selectors/pull/30) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-2. 🎉 Merged PR [#80](https://github.com/castastrophe/plop-pack-align-package-versions/pull/80) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-3. 🎉 Merged PR [#29](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/29) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-4. 🎉 Merged PR [#36](https://github.com/castastrophe/postcss-dropdupedvars/pull/36) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
-5. 🎉 Merged PR [#30](https://github.com/castastrophe/postcss-licensing/pull/30) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 🎉 Merged PR [#41](https://github.com/castastrophe/postcss-strip-comments/pull/41) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+2. 🎉 Merged PR [#30](https://github.com/castastrophe/postcss-transform-selectors/pull/30) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+3. 🎉 Merged PR [#80](https://github.com/castastrophe/plop-pack-align-package-versions/pull/80) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+4. 🎉 Merged PR [#29](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/29) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#36](https://github.com/castastrophe/postcss-dropdupedvars/pull/36) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
 <!--END_SECTION:activity-->
