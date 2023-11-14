@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/castastrophe/plop-pack-align-package-versions/pull/83#issuecomment-1810195632) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-2. 🎉 Merged PR [#84](https://github.com/castastrophe/plop-pack-align-package-versions/pull/84) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-3. 🗣 Commented on [#497](https://github.com/adobe/spectrum-css/issues/497#issuecomment-1810186523) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🔒 Closed issue [#497](https://github.com/adobe/spectrum-css/issues/497) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#2298](https://github.com/adobe/spectrum-css/pull/2298) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 💪 Opened PR [#3799](https://github.com/adobe/spectrum-web-components/pull/3799) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 💪 Opened PR [#3798](https://github.com/adobe/spectrum-web-components/pull/3798) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 💪 Opened PR [#3797](https://github.com/adobe/spectrum-web-components/pull/3797) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🗣 Commented on [#83](https://github.com/castastrophe/plop-pack-align-package-versions/pull/83#issuecomment-1810195632) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+5. 🎉 Merged PR [#84](https://github.com/castastrophe/plop-pack-align-package-versions/pull/84) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
 <!--END_SECTION:activity-->
