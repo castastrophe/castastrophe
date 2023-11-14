@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2271](https://github.com/adobe/spectrum-css/pull/2271) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#82](https://github.com/castastrophe/plop-pack-align-package-versions/pull/82) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-3. 🗣 Commented on [#82](https://github.com/castastrophe/plop-pack-align-package-versions/pull/82#issuecomment-1810378956) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-4. 🗣 Commented on [#8](https://github.com/DeviesDevelopment/workflow-timer/pull/8#issuecomment-1810377958) in [DeviesDevelopment/workflow-timer](https://github.com/DeviesDevelopment/workflow-timer)
-5. 🎉 Merged PR [#83](https://github.com/castastrophe/plop-pack-align-package-versions/pull/83) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+1. 🎉 Merged PR [#2298](https://github.com/adobe/spectrum-css/pull/2298) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#2271](https://github.com/adobe/spectrum-css/pull/2271) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#82](https://github.com/castastrophe/plop-pack-align-package-versions/pull/82) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+4. 🗣 Commented on [#82](https://github.com/castastrophe/plop-pack-align-package-versions/pull/82#issuecomment-1810378956) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+5. 🗣 Commented on [#8](https://github.com/DeviesDevelopment/workflow-timer/pull/8#issuecomment-1810377958) in [DeviesDevelopment/workflow-timer](https://github.com/DeviesDevelopment/workflow-timer)
 <!--END_SECTION:activity-->
