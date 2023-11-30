@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2321](https://github.com/adobe/spectrum-css/pull/2321) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. ❌ Closed PR [#2319](https://github.com/adobe/spectrum-css/pull/2319) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#2318](https://github.com/adobe/spectrum-css/pull/2318) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Closed PR [#2317](https://github.com/adobe/spectrum-css/pull/2317) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#2321](https://github.com/adobe/spectrum-css/pull/2321) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#87](https://github.com/castastrophe/plop-pack-align-package-versions/pull/87) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+2. 🎉 Merged PR [#2321](https://github.com/adobe/spectrum-css/pull/2321) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. ❌ Closed PR [#2319](https://github.com/adobe/spectrum-css/pull/2319) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Closed PR [#2318](https://github.com/adobe/spectrum-css/pull/2318) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Closed PR [#2317](https://github.com/adobe/spectrum-css/pull/2317) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
