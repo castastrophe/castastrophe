@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2338](https://github.com/adobe/spectrum-css/pull/2338#issuecomment-1843120683) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 💪 Opened PR [#2343](https://github.com/adobe/spectrum-css/pull/2343) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#2337](https://github.com/adobe/spectrum-css/pull/2337) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#2337](https://github.com/adobe/spectrum-css/pull/2337#issuecomment-1841403801) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🗣 Commented on [#2337](https://github.com/adobe/spectrum-css/pull/2337#issuecomment-1841226748) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🗣 Commented on [#41](https://github.com/castastrophe/postcss-dropunusedvars/pull/41#issuecomment-1843187921) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+2. 🗣 Commented on [#42](https://github.com/castastrophe/stylelint-header/pull/42#issuecomment-1843187463) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 🗣 Commented on [#22](https://github.com/castastrophe/glob-concat-cli/pull/22#issuecomment-1843187070) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+4. 🗣 Commented on [#41](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/41#issuecomment-1843186046) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#37](https://github.com/castastrophe/postcss-transform-logical/pull/37) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
 <!--END_SECTION:activity-->
