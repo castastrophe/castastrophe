@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2376](https://github.com/adobe/spectrum-css/pull/2376) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 💪 Opened PR [#2376](https://github.com/adobe/spectrum-css/pull/2376) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#2278](https://github.com/adobe/spectrum-css/pull/2278) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#2365](https://github.com/adobe/spectrum-css/pull/2365) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#2365](https://github.com/adobe/spectrum-css/pull/2365) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#91](https://github.com/castastrophe/plop-pack-align-package-versions/pull/91) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+2. 🎉 Merged PR [#92](https://github.com/castastrophe/plop-pack-align-package-versions/pull/92) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+3. 🎉 Merged PR [#93](https://github.com/castastrophe/plop-pack-align-package-versions/pull/93) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+4. 🗣 Commented on [#2369](https://github.com/adobe/spectrum-css/pull/2369#issuecomment-1863412944) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#2376](https://github.com/adobe/spectrum-css/pull/2376) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
