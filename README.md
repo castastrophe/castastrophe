@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/55) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. 🎉 Merged PR [#49](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/49) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. 🎉 Merged PR [#43](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/43) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-4. 🎉 Merged PR [#59](https://github.com/castastrophe/postcss-strip-comments/pull/59) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-5. 🎉 Merged PR [#58](https://github.com/castastrophe/postcss-strip-comments/pull/58) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+1. 🎉 Merged PR [#2477](https://github.com/adobe/spectrum-css/pull/2477) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#55](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/55) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#49](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/49) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+4. 🎉 Merged PR [#43](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/43) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#59](https://github.com/castastrophe/postcss-strip-comments/pull/59) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
 <!--END_SECTION:activity-->
