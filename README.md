@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/castastrophe/glob-concat-cli/pull/26) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🎉 Merged PR [#47](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/47) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. 🎉 Merged PR [#60](https://github.com/castastrophe/postcss-strip-comments/pull/60) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-4. 🎉 Merged PR [#28](https://github.com/castastrophe/glob-concat-cli/pull/28) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-5. 🎉 Merged PR [#57](https://github.com/castastrophe/postcss-strip-comments/pull/57) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+1. 🎉 Merged PR [#104](https://github.com/castastrophe/plop-pack-align-package-versions/pull/104) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+2. 🎉 Merged PR [#48](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/48) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#44](https://github.com/castastrophe/stylelint-header/pull/44) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🎉 Merged PR [#70](https://github.com/castastrophe/postcss-strip-comments/pull/70) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+5. 🎉 Merged PR [#44](https://github.com/castastrophe/postcss-transform-selectors/pull/44) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
 <!--END_SECTION:activity-->
