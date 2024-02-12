@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/castastrophe/stylelint-header/pull/42) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-2. ❌ Closed PR [#43](https://github.com/castastrophe/stylelint-header/pull/43) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 🎉 Merged PR [#104](https://github.com/castastrophe/plop-pack-align-package-versions/pull/104) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-4. 🎉 Merged PR [#48](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/48) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-5. 🎉 Merged PR [#44](https://github.com/castastrophe/stylelint-header/pull/44) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+1. 💪 Opened PR [#45](https://github.com/castastrophe/stylelint-header/pull/45) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🎉 Merged PR [#42](https://github.com/castastrophe/stylelint-header/pull/42) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. ❌ Closed PR [#43](https://github.com/castastrophe/stylelint-header/pull/43) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🎉 Merged PR [#104](https://github.com/castastrophe/plop-pack-align-package-versions/pull/104) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+5. 🎉 Merged PR [#48](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/48) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
 <!--END_SECTION:activity-->
