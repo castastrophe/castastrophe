@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/castastrophe/postcss-dropunusedvars/pull/47) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-2. 🎉 Merged PR [#45](https://github.com/castastrophe/postcss-transform-selectors/pull/45) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-3. 🎉 Merged PR [#44](https://github.com/castastrophe/postcss-dropunusedvars/pull/44) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-4. 🎉 Merged PR [#51](https://github.com/castastrophe/stylelint-header/pull/51) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-5. 🎉 Merged PR [#51](https://github.com/castastrophe/postcss-licensing/pull/51) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 💪 Opened PR [#2565](https://github.com/adobe/spectrum-css/pull/2565) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#47](https://github.com/castastrophe/postcss-dropunusedvars/pull/47) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+3. 🎉 Merged PR [#45](https://github.com/castastrophe/postcss-transform-selectors/pull/45) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+4. 🎉 Merged PR [#44](https://github.com/castastrophe/postcss-dropunusedvars/pull/44) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+5. 🎉 Merged PR [#51](https://github.com/castastrophe/stylelint-header/pull/51) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
