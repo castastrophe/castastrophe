@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2562](https://github.com/adobe/spectrum-css/pull/2562) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 💪 Opened PR [#2561](https://github.com/adobe/spectrum-css/pull/2561) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 💪 Opened PR [#4093](https://github.com/adobe/spectrum-web-components/pull/4093) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-4. 🎉 Merged PR [#2552](https://github.com/adobe/spectrum-css/pull/2552) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#2553](https://github.com/adobe/spectrum-css/pull/2553) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#45](https://github.com/castastrophe/postcss-transform-logical/pull/45) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+2. 🎉 Merged PR [#66](https://github.com/castastrophe/postcss-strip-comments/pull/66) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+3. 🎉 Merged PR [#29](https://github.com/castastrophe/glob-concat-cli/pull/29) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+4. 🎉 Merged PR [#46](https://github.com/castastrophe/postcss-transform-logical/pull/46) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+5. 🎉 Merged PR [#46](https://github.com/castastrophe/postcss-transform-selectors/pull/46) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
 <!--END_SECTION:activity-->
