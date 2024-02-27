@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/castastrophe/postcss-transform-logical/pull/45) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-2. 🎉 Merged PR [#66](https://github.com/castastrophe/postcss-strip-comments/pull/66) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-3. 🎉 Merged PR [#29](https://github.com/castastrophe/glob-concat-cli/pull/29) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#46](https://github.com/castastrophe/postcss-transform-logical/pull/46) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-5. 🎉 Merged PR [#46](https://github.com/castastrophe/postcss-transform-selectors/pull/46) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+1. 🎉 Merged PR [#47](https://github.com/castastrophe/postcss-dropunusedvars/pull/47) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+2. 🎉 Merged PR [#45](https://github.com/castastrophe/postcss-transform-selectors/pull/45) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+3. 🎉 Merged PR [#44](https://github.com/castastrophe/postcss-dropunusedvars/pull/44) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
+4. 🎉 Merged PR [#51](https://github.com/castastrophe/stylelint-header/pull/51) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🎉 Merged PR [#51](https://github.com/castastrophe/postcss-licensing/pull/51) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
 <!--END_SECTION:activity-->
