@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2582](https://github.com/adobe/spectrum-css/pull/2582) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#2557](https://github.com/adobe/spectrum-css/pull/2557) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#2561](https://github.com/adobe/spectrum-css/pull/2561) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#2576](https://github.com/adobe/spectrum-css/pull/2576) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#61](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/61) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+1. ❌ Closed PR [#49](https://github.com/castastrophe/stylelint-header/pull/49) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🎉 Merged PR [#39](https://github.com/castastrophe/glob-concat-cli/pull/39) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. 🎉 Merged PR [#44](https://github.com/castastrophe/postcss-droproot/pull/44) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+4. 🎉 Merged PR [#2581](https://github.com/adobe/spectrum-css/pull/2581) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#2582](https://github.com/adobe/spectrum-css/pull/2582) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
