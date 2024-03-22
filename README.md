@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#72](https://github.com/simonsmith/stylelint-selector-bem-pattern/issues/72) in [simonsmith/stylelint-selector-bem-pattern](https://github.com/simonsmith/stylelint-selector-bem-pattern)
-2. 🗣 Commented on [#2466](https://github.com/adobe/spectrum-css/pull/2466#issuecomment-1999827230) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#2381](https://github.com/adobe/spectrum-css/pull/2381) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Closed PR [#2093](https://github.com/adobe/spectrum-css/pull/2093) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#2243](https://github.com/adobe/spectrum-css/pull/2243) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🗣 Commented on [#2595](https://github.com/adobe/spectrum-css/pull/2595#issuecomment-2015430599) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❗ Opened issue [#72](https://github.com/simonsmith/stylelint-selector-bem-pattern/issues/72) in [simonsmith/stylelint-selector-bem-pattern](https://github.com/simonsmith/stylelint-selector-bem-pattern)
+3. 🗣 Commented on [#2466](https://github.com/adobe/spectrum-css/pull/2466#issuecomment-1999827230) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Closed PR [#2381](https://github.com/adobe/spectrum-css/pull/2381) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Closed PR [#2093](https://github.com/adobe/spectrum-css/pull/2093) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
