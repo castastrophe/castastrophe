@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2606](https://github.com/adobe/spectrum-css/pull/2606) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 💪 Opened PR [#2605](https://github.com/adobe/spectrum-css/pull/2605) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#2466](https://github.com/adobe/spectrum-css/pull/2466) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#2595](https://github.com/adobe/spectrum-css/pull/2595#issuecomment-2015430599) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❗ Opened issue [#72](https://github.com/simonsmith/stylelint-selector-bem-pattern/issues/72) in [simonsmith/stylelint-selector-bem-pattern](https://github.com/simonsmith/stylelint-selector-bem-pattern)
+1. ❌ Reopened PR [#2420](https://github.com/adobe/spectrum-css/pull/2420) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❌ Closed PR [#2420](https://github.com/adobe/spectrum-css/pull/2420) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 💪 Opened PR [#2606](https://github.com/adobe/spectrum-css/pull/2606) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 💪 Opened PR [#2605](https://github.com/adobe/spectrum-css/pull/2605) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#2466](https://github.com/adobe/spectrum-css/pull/2466) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
