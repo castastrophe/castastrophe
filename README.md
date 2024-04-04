@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/castastrophe/postcss-strip-comments/pull/76) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-2. 🎉 Merged PR [#63](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/63) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. ❌ Closed PR [#15](https://github.com/castastrophe/storybook-addon-context-decorators/pull/15) in [castastrophe/storybook-addon-context-decorators](https://github.com/castastrophe/storybook-addon-context-decorators)
-4. 🎉 Merged PR [#118](https://github.com/castastrophe/plop-pack-align-package-versions/pull/118) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-5. 🎉 Merged PR [#40](https://github.com/castastrophe/glob-concat-cli/pull/40) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 🎉 Merged PR [#2614](https://github.com/adobe/spectrum-css/pull/2614) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#42](https://github.com/castastrophe/postcss-dropdupedvars/pull/42) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+3. ❌ Closed PR [#43](https://github.com/castastrophe/postcss-dropdupedvars/pull/43) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+4. 🎉 Merged PR [#36](https://github.com/castastrophe/postcss-rgb-mapping/pull/36) in [castastrophe/postcss-rgb-mapping](https://github.com/castastrophe/postcss-rgb-mapping)
+5. 🎉 Merged PR [#44](https://github.com/castastrophe/postcss-dropdupedvars/pull/44) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
 <!--END_SECTION:activity-->
