@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/adobe/spectrum-css-workflow-icons/pull/36) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
-2. 🎉 Merged PR [#53](https://github.com/castastrophe/postcss-transform-selectors/pull/53) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-3. 🎉 Merged PR [#79](https://github.com/castastrophe/postcss-strip-comments/pull/79) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-4. 🎉 Merged PR [#56](https://github.com/castastrophe/postcss-dropunusedvars/pull/56) in [castastrophe/postcss-dropunusedvars](https://github.com/castastrophe/postcss-dropunusedvars)
-5. 🎉 Merged PR [#50](https://github.com/castastrophe/postcss-droproot/pull/50) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
+1. 🎉 Merged PR [#2663](https://github.com/adobe/spectrum-css/pull/2663) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🗣 Commented on [#2663](https://github.com/adobe/spectrum-css/pull/2663#issuecomment-2064288119) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 💪 Opened PR [#36](https://github.com/adobe/spectrum-css-workflow-icons/pull/36) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
+4. 🎉 Merged PR [#53](https://github.com/castastrophe/postcss-transform-selectors/pull/53) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+5. 🎉 Merged PR [#79](https://github.com/castastrophe/postcss-strip-comments/pull/79) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
 <!--END_SECTION:activity-->
