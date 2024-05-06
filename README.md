@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/castastrophe/postcss-licensing/pull/63) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-2. 🎉 Merged PR [#123](https://github.com/castastrophe/plop-pack-align-package-versions/pull/123) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-3. 🎉 Merged PR [#2616](https://github.com/adobe/spectrum-css/pull/2616) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#44](https://github.com/castastrophe/glob-concat-cli/pull/44) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-5. 🎉 Merged PR [#82](https://github.com/castastrophe/postcss-strip-comments/pull/82) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
+1. 🎉 Merged PR [#56](https://github.com/castastrophe/postcss-dropdupedvars/pull/56) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+2. 💪 Opened PR [#56](https://github.com/castastrophe/postcss-dropdupedvars/pull/56) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+3. 🚀 Published release [v2.0.0](https://github.com/castastrophe/stylelint-header/releases/tag/v2.0.0) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🎉 Merged PR [#74](https://github.com/castastrophe/stylelint-header/pull/74) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🎉 Merged PR [#45](https://github.com/castastrophe/stylelint-header/pull/45) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
