@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2616](https://github.com/adobe/spectrum-css/pull/2616) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#44](https://github.com/castastrophe/glob-concat-cli/pull/44) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-3. 🎉 Merged PR [#82](https://github.com/castastrophe/postcss-strip-comments/pull/82) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-4. 🎉 Merged PR [#80](https://github.com/castastrophe/postcss-strip-comments/pull/80) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
-5. 🎉 Merged PR [#58](https://github.com/castastrophe/postcss-transform-selectors/pull/58) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+1. 🎉 Merged PR [#63](https://github.com/castastrophe/postcss-licensing/pull/63) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+2. 🎉 Merged PR [#123](https://github.com/castastrophe/plop-pack-align-package-versions/pull/123) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+3. 🎉 Merged PR [#2616](https://github.com/adobe/spectrum-css/pull/2616) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#44](https://github.com/castastrophe/glob-concat-cli/pull/44) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+5. 🎉 Merged PR [#82](https://github.com/castastrophe/postcss-strip-comments/pull/82) in [castastrophe/postcss-strip-comments](https://github.com/castastrophe/postcss-strip-comments)
 <!--END_SECTION:activity-->
