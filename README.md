@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/castastrophe/postcss-transform-logical/issues/29) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-2. 🎉 Merged PR [#59](https://github.com/castastrophe/postcss-transform-logical/pull/59) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-3. 💪 Opened PR [#59](https://github.com/castastrophe/postcss-transform-logical/pull/59) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
-4. 🔒 Closed issue [#9](https://github.com/castastrophe/postcss-dropdupedvars/issues/9) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
-5. 🎉 Merged PR [#56](https://github.com/castastrophe/postcss-dropdupedvars/pull/56) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
+1. 🗣 Commented on [#2732](https://github.com/adobe/spectrum-css/pull/2732#issuecomment-2098462070) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🔒 Closed issue [#29](https://github.com/castastrophe/postcss-transform-logical/issues/29) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+3. 🎉 Merged PR [#59](https://github.com/castastrophe/postcss-transform-logical/pull/59) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+4. 💪 Opened PR [#59](https://github.com/castastrophe/postcss-transform-logical/pull/59) in [castastrophe/postcss-transform-logical](https://github.com/castastrophe/postcss-transform-logical)
+5. 🔒 Closed issue [#9](https://github.com/castastrophe/postcss-dropdupedvars/issues/9) in [castastrophe/postcss-dropdupedvars](https://github.com/castastrophe/postcss-dropdupedvars)
 <!--END_SECTION:activity-->
