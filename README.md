@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/castastrophe/plop-pack-align-package-versions/pull/125) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-2. 🗣 Commented on [#2766](https://github.com/adobe/spectrum-css/pull/2766#issuecomment-2125143550) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#76](https://github.com/castastrophe/stylelint-header/pull/76) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-4. 💪 Opened PR [#2775](https://github.com/adobe/spectrum-css/pull/2775) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#2774](https://github.com/adobe/spectrum-css/pull/2774) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#2776](https://github.com/adobe/spectrum-css/pull/2776) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🗣 Commented on [#55](https://github.com/castastrophe/postcss-transform-selectors/pull/55#issuecomment-2125317594) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+3. 🎉 Merged PR [#56](https://github.com/castastrophe/postcss-transform-selectors/pull/56) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+4. 🎉 Merged PR [#2677](https://github.com/adobe/spectrum-css/pull/2677) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🗣 Commented on [#56](https://github.com/castastrophe/postcss-transform-selectors/pull/56#issuecomment-2125303019) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
 <!--END_SECTION:activity-->
