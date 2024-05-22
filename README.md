@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2776](https://github.com/adobe/spectrum-css/pull/2776) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🗣 Commented on [#55](https://github.com/castastrophe/postcss-transform-selectors/pull/55#issuecomment-2125317594) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-3. 🎉 Merged PR [#56](https://github.com/castastrophe/postcss-transform-selectors/pull/56) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
-4. 🎉 Merged PR [#2677](https://github.com/adobe/spectrum-css/pull/2677) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🗣 Commented on [#56](https://github.com/castastrophe/postcss-transform-selectors/pull/56#issuecomment-2125303019) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+1. 🗣 Commented on [#674](https://github.com/changesets/changesets/pull/674#issuecomment-2125393530) in [changesets/changesets](https://github.com/changesets/changesets)
+2. 🔒 Closed issue [#2715](https://github.com/adobe/spectrum-css/issues/2715) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#2762](https://github.com/adobe/spectrum-css/pull/2762) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#59](https://github.com/castastrophe/postcss-transform-selectors/pull/59) in [castastrophe/postcss-transform-selectors](https://github.com/castastrophe/postcss-transform-selectors)
+5. 🎉 Merged PR [#2776](https://github.com/adobe/spectrum-css/pull/2776) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
