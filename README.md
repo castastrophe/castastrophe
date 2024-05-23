@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2753](https://github.com/adobe/spectrum-css/pull/2753) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🗣 Commented on [#73](https://github.com/simonsmith/stylelint-selector-bem-pattern/pull/73#issuecomment-2125656455) in [simonsmith/stylelint-selector-bem-pattern](https://github.com/simonsmith/stylelint-selector-bem-pattern)
-3. 💪 Opened PR [#2780](https://github.com/adobe/spectrum-css/pull/2780) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#52](https://github.com/castastrophe/postcss-droproot/pull/52) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
-5. 🎉 Merged PR [#2779](https://github.com/adobe/spectrum-css/pull/2779) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🗣 Commented on [#2771](https://github.com/adobe/spectrum-css/pull/2771#issuecomment-2127330619) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#2753](https://github.com/adobe/spectrum-css/pull/2753) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#73](https://github.com/simonsmith/stylelint-selector-bem-pattern/pull/73#issuecomment-2125656455) in [simonsmith/stylelint-selector-bem-pattern](https://github.com/simonsmith/stylelint-selector-bem-pattern)
+4. 💪 Opened PR [#2780](https://github.com/adobe/spectrum-css/pull/2780) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#52](https://github.com/castastrophe/postcss-droproot/pull/52) in [castastrophe/postcss-droproot](https://github.com/castastrophe/postcss-droproot)
 <!--END_SECTION:activity-->
