@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/adobe/spectrum-css-workflow-icons/pull/28) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
-2. ❌ Closed PR [#26](https://github.com/adobe/spectrum-css-workflow-icons/pull/26) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
-3. ❌ Closed PR [#30](https://github.com/adobe/spectrum-css-workflow-icons/pull/30) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
-4. 🎉 Merged PR [#2792](https://github.com/adobe/spectrum-css/pull/2792) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#2420](https://github.com/adobe/spectrum-css/pull/2420) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#38](https://github.com/adobe/spectrum-css-workflow-icons/pull/38) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
+2. 🎉 Merged PR [#37](https://github.com/adobe/spectrum-css-workflow-icons/pull/37) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
+3. ❌ Closed PR [#24](https://github.com/adobe/spectrum-css-workflow-icons/pull/24) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
+4. 🎉 Merged PR [#36](https://github.com/adobe/spectrum-css-workflow-icons/pull/36) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
+5. ❌ Closed PR [#23](https://github.com/adobe/spectrum-css-workflow-icons/pull/23) in [adobe/spectrum-css-workflow-icons](https://github.com/adobe/spectrum-css-workflow-icons)
 <!--END_SECTION:activity-->
