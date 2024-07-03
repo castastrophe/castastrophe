@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/castastrophe/stylelint-header/pull/87) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-2. 🎉 Merged PR [#90](https://github.com/castastrophe/stylelint-header/pull/90) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 🎉 Merged PR [#137](https://github.com/castastrophe/plop-pack-align-package-versions/pull/137) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-4. 🎉 Merged PR [#134](https://github.com/castastrophe/plop-pack-align-package-versions/pull/134) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
-5. 🎉 Merged PR [#129](https://github.com/castastrophe/plop-pack-align-package-versions/pull/129) in [castastrophe/plop-pack-align-package-versions](https://github.com/castastrophe/plop-pack-align-package-versions)
+1. 🗣 Commented on [#79](https://github.com/castastrophe/stylelint-header/pull/79#issuecomment-2206159465) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🗣 Commented on [#76](https://github.com/castastrophe/stylelint-header/pull/76#issuecomment-2206159212) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 🗣 Commented on [#90](https://github.com/castastrophe/stylelint-header/pull/90#issuecomment-2206158973) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🗣 Commented on [#82](https://github.com/castastrophe/stylelint-header/pull/82#issuecomment-2206158726) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🗣 Commented on [#81](https://github.com/castastrophe/stylelint-header/pull/81#issuecomment-2206158466) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
