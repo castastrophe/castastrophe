@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/castastrophe/postcss-vars-add-fallback/pull/31#issuecomment-2207070259) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-2. 🎉 Merged PR [#30](https://github.com/castastrophe/postcss-vars-add-fallback/pull/30) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-3. 🗣 Commented on [#31](https://github.com/castastrophe/postcss-vars-add-fallback/pull/31#issuecomment-2207067363) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-4. 🎉 Merged PR [#43](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/43) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-5. 🎉 Merged PR [#28](https://github.com/castastrophe/postcss-vars-add-fallback/pull/28) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+1. 🎉 Merged PR [#31](https://github.com/castastrophe/postcss-vars-add-fallback/pull/31) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+2. 🗣 Commented on [#31](https://github.com/castastrophe/postcss-vars-add-fallback/pull/31#issuecomment-2207070259) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+3. 🎉 Merged PR [#30](https://github.com/castastrophe/postcss-vars-add-fallback/pull/30) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+4. 🗣 Commented on [#31](https://github.com/castastrophe/postcss-vars-add-fallback/pull/31#issuecomment-2207067363) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+5. 🎉 Merged PR [#43](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/43) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
 <!--END_SECTION:activity-->
