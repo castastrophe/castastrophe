@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/castastrophe/postcss-licensing/pull/78) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-2. 🎉 Merged PR [#77](https://github.com/castastrophe/postcss-licensing/pull/77) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-3. 💪 Opened PR [#2962](https://github.com/adobe/spectrum-css/pull/2962) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#2959](https://github.com/adobe/spectrum-css/pull/2959) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#2960](https://github.com/adobe/spectrum-css/pull/2960) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#2964](https://github.com/adobe/spectrum-css/pull/2964) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#2960](https://github.com/adobe/spectrum-css/pull/2960) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#78](https://github.com/castastrophe/postcss-licensing/pull/78) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🎉 Merged PR [#77](https://github.com/castastrophe/postcss-licensing/pull/77) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+5. 💪 Opened PR [#2962](https://github.com/adobe/spectrum-css/pull/2962) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
