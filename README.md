@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2971](https://github.com/adobe/spectrum-css/pull/2971) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#2968](https://github.com/adobe/spectrum-css/pull/2968) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#53](https://github.com/castastrophe/glob-concat-cli/pull/53) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#55](https://github.com/castastrophe/glob-concat-cli/pull/55) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-5. 🎉 Merged PR [#80](https://github.com/castastrophe/postcss-licensing/pull/80) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 🎉 Merged PR [#2969](https://github.com/adobe/spectrum-css/pull/2969) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#2967](https://github.com/adobe/spectrum-css/pull/2967) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#2971](https://github.com/adobe/spectrum-css/pull/2971) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#2968](https://github.com/adobe/spectrum-css/pull/2968) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#53](https://github.com/castastrophe/glob-concat-cli/pull/53) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
