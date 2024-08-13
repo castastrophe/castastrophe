@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/castastrophe/postcss-licensing/pull/81) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-2. 🗣 Commented on [#79](https://github.com/castastrophe/postcss-licensing/pull/79#issuecomment-2284930487) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-3. 🎉 Merged PR [#54](https://github.com/castastrophe/glob-concat-cli/pull/54) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#101](https://github.com/castastrophe/stylelint-header/pull/101) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-5. 🎉 Merged PR [#2994](https://github.com/adobe/spectrum-css/pull/2994) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#2965](https://github.com/adobe/spectrum-css/pull/2965) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#2995](https://github.com/adobe/spectrum-css/pull/2995) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#81](https://github.com/castastrophe/postcss-licensing/pull/81) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🗣 Commented on [#79](https://github.com/castastrophe/postcss-licensing/pull/79#issuecomment-2284930487) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+5. 🎉 Merged PR [#54](https://github.com/castastrophe/glob-concat-cli/pull/54) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
