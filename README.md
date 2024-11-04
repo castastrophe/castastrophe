@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3362](https://github.com/adobe/spectrum-css/pull/3362) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🗣 Commented on [#3125](https://github.com/adobe/spectrum-css/pull/3125#issuecomment-2452446168) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#51](https://github.com/castastrophe/postcss-vars-add-fallback/pull/51) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-4. 🎉 Merged PR [#3343](https://github.com/adobe/spectrum-css/pull/3343) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#48](https://github.com/castastrophe/postcss-vars-add-fallback/pull/48) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+1. 🎉 Merged PR [#96](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/96) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+2. 🎉 Merged PR [#3363](https://github.com/adobe/spectrum-css/pull/3363) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#3361](https://github.com/adobe/spectrum-css/pull/3361#issuecomment-2455266519) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#95](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/95) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#3362](https://github.com/adobe/spectrum-css/pull/3362) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
