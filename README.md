@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4954](https://github.com/adobe/spectrum-web-components/pull/4954) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. 🎉 Merged PR [#3413](https://github.com/adobe/spectrum-css/pull/3413) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#6](https://github.com/castastrophe/latest-package/pull/6) in [castastrophe/latest-package](https://github.com/castastrophe/latest-package)
-4. 🎉 Merged PR [#126](https://github.com/castastrophe/stylelint-header/pull/126) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-5. 💪 Opened PR [#57](https://github.com/GarthDB/style-dictionary-sets/pull/57) in [GarthDB/style-dictionary-sets](https://github.com/GarthDB/style-dictionary-sets)
+1. ❌ Closed PR [#3414](https://github.com/adobe/spectrum-css/pull/3414) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 💪 Opened PR [#4954](https://github.com/adobe/spectrum-web-components/pull/4954) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 🎉 Merged PR [#3413](https://github.com/adobe/spectrum-css/pull/3413) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#6](https://github.com/castastrophe/latest-package/pull/6) in [castastrophe/latest-package](https://github.com/castastrophe/latest-package)
+5. 🎉 Merged PR [#126](https://github.com/castastrophe/stylelint-header/pull/126) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
