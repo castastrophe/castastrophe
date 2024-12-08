@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/ljcl/storybook-addon-cssprops/issues/49#issuecomment-2523335273) in [ljcl/storybook-addon-cssprops](https://github.com/ljcl/storybook-addon-cssprops)
-2. 💪 Opened PR [#4977](https://github.com/adobe/spectrum-web-components/pull/4977) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. 💪 Opened PR [#3428](https://github.com/adobe/spectrum-css/pull/3428) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#2786](https://github.com/adobe/spectrum-css/pull/2786#issuecomment-2515994912) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#3427](https://github.com/adobe/spectrum-css/pull/3427) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#61](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/61) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+2. 🎉 Merged PR [#62](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/62) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+3. 🎉 Merged PR [#54](https://github.com/castastrophe/postcss-vars-add-fallback/pull/54) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+4. 🎉 Merged PR [#53](https://github.com/castastrophe/postcss-vars-add-fallback/pull/53) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+5. 🎉 Merged PR [#60](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/60) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
 <!--END_SECTION:activity-->
