@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/castastrophe/postcss-licensing/pull/97) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-2. 🎉 Merged PR [#130](https://github.com/castastrophe/stylelint-header/pull/130) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 🎉 Merged PR [#99](https://github.com/castastrophe/postcss-licensing/pull/99) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-4. 🎉 Merged PR [#61](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/61) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-5. 🎉 Merged PR [#62](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/62) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+1. 🎉 Merged PR [#100](https://github.com/castastrophe/postcss-licensing/pull/100) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+2. 🎉 Merged PR [#98](https://github.com/castastrophe/postcss-licensing/pull/98) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+3. 🎉 Merged PR [#97](https://github.com/castastrophe/postcss-licensing/pull/97) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🎉 Merged PR [#130](https://github.com/castastrophe/stylelint-header/pull/130) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🎉 Merged PR [#99](https://github.com/castastrophe/postcss-licensing/pull/99) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
 <!--END_SECTION:activity-->
