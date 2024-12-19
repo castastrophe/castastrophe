@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#102](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/102) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. ❌ Closed PR [#102](https://github.com/castastrophe/postcss-licensing/pull/102) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-3. ❌ Closed PR [#63](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/63) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-4. ❌ Closed PR [#58](https://github.com/castastrophe/postcss-vars-add-fallback/pull/58) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-5. 🎉 Merged PR [#3448](https://github.com/adobe/spectrum-css/pull/3448) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#3407](https://github.com/adobe/spectrum-css/pull/3407) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❌ Closed PR [#102](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/102) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. ❌ Closed PR [#102](https://github.com/castastrophe/postcss-licensing/pull/102) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. ❌ Closed PR [#63](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/63) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+5. ❌ Closed PR [#58](https://github.com/castastrophe/postcss-vars-add-fallback/pull/58) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
 <!--END_SECTION:activity-->
