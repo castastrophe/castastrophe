@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/castastrophe/stylelint-header/pull/135) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-2. 🎉 Merged PR [#134](https://github.com/castastrophe/stylelint-header/pull/134) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 🎉 Merged PR [#3457](https://github.com/adobe/spectrum-css/pull/3457) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#3443](https://github.com/adobe/spectrum-css/pull/3443) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#3408](https://github.com/adobe/spectrum-css/pull/3408) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#133](https://github.com/castastrophe/stylelint-header/pull/133) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🎉 Merged PR [#135](https://github.com/castastrophe/stylelint-header/pull/135) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 🎉 Merged PR [#134](https://github.com/castastrophe/stylelint-header/pull/134) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🎉 Merged PR [#3457](https://github.com/adobe/spectrum-css/pull/3457) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#3443](https://github.com/adobe/spectrum-css/pull/3443) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
