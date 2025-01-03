@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3472](https://github.com/adobe/spectrum-css/pull/3472) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#75](https://github.com/castastrophe/glob-concat-cli/pull/75) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-3. 🎉 Merged PR [#106](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/106) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-4. 🎉 Merged PR [#106](https://github.com/castastrophe/postcss-licensing/pull/106) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-5. 🎉 Merged PR [#136](https://github.com/castastrophe/stylelint-header/pull/136) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+1. 🎉 Merged PR [#104](https://github.com/castastrophe/postcss-licensing/pull/104) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+2. 🎉 Merged PR [#76](https://github.com/castastrophe/glob-concat-cli/pull/76) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. 🎉 Merged PR [#108](https://github.com/castastrophe/postcss-licensing/pull/108) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🎉 Merged PR [#62](https://github.com/castastrophe/postcss-vars-add-fallback/pull/62) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
+5. 🎉 Merged PR [#103](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/103) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
 <!--END_SECTION:activity-->
