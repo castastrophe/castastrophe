@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799470) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-2. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799143) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-3. 🎉 Merged PR [#77](https://github.com/castastrophe/glob-concat-cli/pull/77) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#60](https://github.com/castastrophe/postcss-vars-add-fallback/pull/60) in [castastrophe/postcss-vars-add-fallback](https://github.com/castastrophe/postcss-vars-add-fallback)
-5. 🎉 Merged PR [#104](https://github.com/castastrophe/postcss-licensing/pull/104) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 🎉 Merged PR [#3478](https://github.com/adobe/spectrum-css/pull/3478) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#3474](https://github.com/adobe/spectrum-css/pull/3474) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799470) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+4. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799143) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+5. 🎉 Merged PR [#77](https://github.com/castastrophe/glob-concat-cli/pull/77) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
