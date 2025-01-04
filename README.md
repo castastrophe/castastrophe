@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3478](https://github.com/adobe/spectrum-css/pull/3478) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#3474](https://github.com/adobe/spectrum-css/pull/3474) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799470) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-4. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799143) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-5. 🎉 Merged PR [#77](https://github.com/castastrophe/glob-concat-cli/pull/77) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 💪 Opened PR [#5004](https://github.com/adobe/spectrum-web-components/pull/5004) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🎉 Merged PR [#3478](https://github.com/adobe/spectrum-css/pull/3478) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🎉 Merged PR [#3474](https://github.com/adobe/spectrum-css/pull/3474) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799470) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+5. 🗣 Commented on [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67#issuecomment-2569799143) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
 <!--END_SECTION:activity-->
