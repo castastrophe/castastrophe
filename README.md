@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3509](https://github.com/adobe/spectrum-css/pull/3509) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 💪 Opened PR [#3502](https://github.com/adobe/spectrum-css/pull/3502) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 💪 Opened PR [#3501](https://github.com/adobe/spectrum-css/pull/3501) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#3500](https://github.com/adobe/spectrum-css/pull/3500) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🗣 Commented on [#3433](https://github.com/adobe/spectrum-css/issues/3433#issuecomment-2593753454) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🗣 Commented on [#93](https://github.com/castastrophe/stylelint-header/pull/93#issuecomment-2605962689) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🗣 Commented on [#96](https://github.com/castastrophe/stylelint-header/pull/96#issuecomment-2605962627) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 🗣 Commented on [#98](https://github.com/castastrophe/stylelint-header/pull/98#issuecomment-2605962559) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🗣 Commented on [#92](https://github.com/castastrophe/stylelint-header/pull/92#issuecomment-2605962502) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🗣 Commented on [#100](https://github.com/castastrophe/stylelint-header/pull/100#issuecomment-2605962443) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
