@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#144](https://github.com/castastrophe/stylelint-header/pull/144) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-2. 🗣 Commented on [#143](https://github.com/castastrophe/stylelint-header/pull/143#issuecomment-2619058882) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 🚀 Published release [v2.0.3](https://github.com/castastrophe/stylelint-header/releases/tag/v2.0.3) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-4. 🔒 Closed issue [#141](https://github.com/castastrophe/stylelint-header/issues/141) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-5. 🎉 Merged PR [#143](https://github.com/castastrophe/stylelint-header/pull/143) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+1. 💪 Opened PR [#145](https://github.com/castastrophe/stylelint-header/pull/145) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. 🎉 Merged PR [#144](https://github.com/castastrophe/stylelint-header/pull/144) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 💪 Opened PR [#144](https://github.com/castastrophe/stylelint-header/pull/144) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🗣 Commented on [#143](https://github.com/castastrophe/stylelint-header/pull/143#issuecomment-2619058882) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🚀 Published release [v2.0.3](https://github.com/castastrophe/stylelint-header/releases/tag/v2.0.3) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
