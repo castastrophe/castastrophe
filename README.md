@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/castastrophe/glob-concat-cli/pull/78) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🎉 Merged PR [#111](https://github.com/castastrophe/postcss-licensing/pull/111) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-3. 🗣 Commented on [#80](https://github.com/castastrophe/glob-concat-cli/pull/80#issuecomment-2629042258) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🗣 Commented on [#111](https://github.com/castastrophe/postcss-licensing/pull/111#issuecomment-2629042050) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-5. 🎉 Merged PR [#69](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/69) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+1. 🎉 Merged PR [#80](https://github.com/castastrophe/glob-concat-cli/pull/80) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+2. 🎉 Merged PR [#78](https://github.com/castastrophe/glob-concat-cli/pull/78) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. 🎉 Merged PR [#111](https://github.com/castastrophe/postcss-licensing/pull/111) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🗣 Commented on [#80](https://github.com/castastrophe/glob-concat-cli/pull/80#issuecomment-2629042258) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+5. 🗣 Commented on [#111](https://github.com/castastrophe/postcss-licensing/pull/111#issuecomment-2629042050) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
 <!--END_SECTION:activity-->
