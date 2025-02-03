@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/107) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. 🎉 Merged PR [#67](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/67) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-3. 🎉 Merged PR [#109](https://github.com/castastrophe/postcss-licensing/pull/109) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-4. 🎉 Merged PR [#68](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/68) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-5. 🎉 Merged PR [#79](https://github.com/castastrophe/glob-concat-cli/pull/79) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 🎉 Merged PR [#111](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/111) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+2. 🎉 Merged PR [#110](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/110) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#109](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/109) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+4. 🎉 Merged PR [#108](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/108) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#107](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/107) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
 <!--END_SECTION:activity-->
