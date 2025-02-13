@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3546](https://github.com/adobe/spectrum-css/pull/3546#issuecomment-2651016321) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. ❌ Closed PR [#3546](https://github.com/adobe/spectrum-css/pull/3546) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#3541](https://github.com/adobe/spectrum-css/pull/3541) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#2605](https://github.com/adobe/spectrum-css/pull/2605) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 💪 Opened PR [#3541](https://github.com/adobe/spectrum-css/pull/3541) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#3544](https://github.com/adobe/spectrum-css/pull/3544) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🗣 Commented on [#3546](https://github.com/adobe/spectrum-css/pull/3546#issuecomment-2651016321) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. ❌ Closed PR [#3546](https://github.com/adobe/spectrum-css/pull/3546) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. 🎉 Merged PR [#3541](https://github.com/adobe/spectrum-css/pull/3541) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#2605](https://github.com/adobe/spectrum-css/pull/2605) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
