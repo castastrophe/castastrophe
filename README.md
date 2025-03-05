@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/118) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. 🎉 Merged PR [#162](https://github.com/castastrophe/stylelint-header/pull/162) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. ❌ Closed PR [#3455](https://github.com/adobe/spectrum-css/pull/3455) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🎉 Merged PR [#3598](https://github.com/adobe/spectrum-css/pull/3598) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. 🎉 Merged PR [#3579](https://github.com/adobe/spectrum-css/pull/3579) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 💪 Opened PR [#5151](https://github.com/adobe/spectrum-web-components/pull/5151) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🎉 Merged PR [#118](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/118) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#162](https://github.com/castastrophe/stylelint-header/pull/162) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. ❌ Closed PR [#3455](https://github.com/adobe/spectrum-css/pull/3455) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#3598](https://github.com/adobe/spectrum-css/pull/3598) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
