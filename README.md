@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5276](https://github.com/adobe/spectrum-web-components/pull/5276) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. ❌ Closed PR [#5237](https://github.com/adobe/spectrum-web-components/pull/5237) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. 🎉 Merged PR [#5275](https://github.com/adobe/spectrum-web-components/pull/5275) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-4. 💪 Opened PR [#5309](https://github.com/adobe/spectrum-web-components/pull/5309) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-5. 🗣 Commented on [#5282](https://github.com/adobe/spectrum-web-components/pull/5282#issuecomment-2764217840) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+1. 🎉 Merged PR [#5277](https://github.com/adobe/spectrum-web-components/pull/5277) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🗣 Commented on [#5292](https://github.com/adobe/spectrum-web-components/pull/5292#issuecomment-2767461658) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. ❌ Closed PR [#5292](https://github.com/adobe/spectrum-web-components/pull/5292) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🎉 Merged PR [#5276](https://github.com/adobe/spectrum-web-components/pull/5276) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+5. ❌ Closed PR [#5237](https://github.com/adobe/spectrum-web-components/pull/5237) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
 <!--END_SECTION:activity-->
