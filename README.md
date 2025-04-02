@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/75) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-2. 🎉 Merged PR [#122](https://github.com/castastrophe/postcss-licensing/pull/122) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-3. 🎉 Merged PR [#74](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/74) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-4. 🎉 Merged PR [#166](https://github.com/castastrophe/stylelint-header/pull/166) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-5. 🎉 Merged PR [#5277](https://github.com/adobe/spectrum-web-components/pull/5277) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+1. 🎉 Merged PR [#121](https://github.com/castastrophe/postcss-licensing/pull/121) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+2. 🎉 Merged PR [#73](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/73) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+3. 🎉 Merged PR [#75](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/75) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+4. 🎉 Merged PR [#122](https://github.com/castastrophe/postcss-licensing/pull/122) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+5. 🎉 Merged PR [#74](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/74) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
 <!--END_SECTION:activity-->
