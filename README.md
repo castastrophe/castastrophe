@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/castastrophe/glob-concat-cli/pull/92) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🗣 Commented on [#5304](https://github.com/adobe/spectrum-web-components/pull/5304#issuecomment-2769708828) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. 🎉 Merged PR [#121](https://github.com/castastrophe/postcss-licensing/pull/121) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-4. 🎉 Merged PR [#73](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/73) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-5. 🎉 Merged PR [#75](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/75) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+1. 🎉 Merged PR [#5301](https://github.com/adobe/spectrum-web-components/pull/5301) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🎉 Merged PR [#92](https://github.com/castastrophe/glob-concat-cli/pull/92) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. 🗣 Commented on [#5304](https://github.com/adobe/spectrum-web-components/pull/5304#issuecomment-2769708828) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🎉 Merged PR [#121](https://github.com/castastrophe/postcss-licensing/pull/121) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+5. 🎉 Merged PR [#73](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/73) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
 <!--END_SECTION:activity-->
