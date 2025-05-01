@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/78) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-2. 🎉 Merged PR [#125](https://github.com/castastrophe/postcss-licensing/pull/125) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-3. 🎉 Merged PR [#173](https://github.com/castastrophe/stylelint-header/pull/173) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-4. 🗣 Commented on [#5417](https://github.com/adobe/spectrum-web-components/pull/5417#issuecomment-2842982127) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-5. 💪 Opened PR [#5419](https://github.com/adobe/spectrum-web-components/pull/5419) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+1. 🎉 Merged PR [#76](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/76) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+2. 🎉 Merged PR [#78](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/78) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+3. 🎉 Merged PR [#125](https://github.com/castastrophe/postcss-licensing/pull/125) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+4. 🎉 Merged PR [#173](https://github.com/castastrophe/stylelint-header/pull/173) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🗣 Commented on [#5417](https://github.com/adobe/spectrum-web-components/pull/5417#issuecomment-2842982127) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
 <!--END_SECTION:activity-->
