@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#122](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/122) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. 🎉 Merged PR [#121](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/121) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. 🎉 Merged PR [#123](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/123) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-4. 🎉 Merged PR [#93](https://github.com/castastrophe/glob-concat-cli/pull/93) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-5. 🎉 Merged PR [#94](https://github.com/castastrophe/glob-concat-cli/pull/94) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 🎉 Merged PR [#5424](https://github.com/adobe/spectrum-web-components/pull/5424) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🗣 Commented on [#5219](https://github.com/adobe/spectrum-web-components/pull/5219#issuecomment-2851050285) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 🎉 Merged PR [#122](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/122) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+4. 🎉 Merged PR [#121](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/121) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#123](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/123) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
 <!--END_SECTION:activity-->
