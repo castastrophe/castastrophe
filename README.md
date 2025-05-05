@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5424](https://github.com/adobe/spectrum-web-components/pull/5424) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. 🗣 Commented on [#5219](https://github.com/adobe/spectrum-web-components/pull/5219#issuecomment-2851050285) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. 🎉 Merged PR [#122](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/122) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-4. 🎉 Merged PR [#121](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/121) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-5. 🎉 Merged PR [#123](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/123) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+1. 🗣 Commented on [#5426](https://github.com/adobe/spectrum-web-components/pull/5426#issuecomment-2851173254) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. ❌ Closed PR [#5219](https://github.com/adobe/spectrum-web-components/pull/5219) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. ❌ Closed PR [#5423](https://github.com/adobe/spectrum-web-components/pull/5423) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🎉 Merged PR [#5424](https://github.com/adobe/spectrum-web-components/pull/5424) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+5. 🗣 Commented on [#5219](https://github.com/adobe/spectrum-web-components/pull/5219#issuecomment-2851050285) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
 <!--END_SECTION:activity-->
