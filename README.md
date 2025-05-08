@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1528](https://github.com/adobe/spectrum-web-components/issues/1528) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. 🗣 Commented on [#1528](https://github.com/adobe/spectrum-web-components/issues/1528#issuecomment-2859272590) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. 🗣 Commented on [#5375](https://github.com/adobe/spectrum-web-components/issues/5375#issuecomment-2859257044) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-4. 🗣 Commented on [#5279](https://github.com/adobe/spectrum-web-components/issues/5279#issuecomment-2859250329) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-5. 🔒 Closed issue [#5279](https://github.com/adobe/spectrum-web-components/issues/5279) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+1. 🗣 Commented on [#3071](https://github.com/adobe/spectrum-web-components/issues/3071#issuecomment-2859378796) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🔒 Closed issue [#3071](https://github.com/adobe/spectrum-web-components/issues/3071) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 🗣 Commented on [#2962](https://github.com/adobe/spectrum-web-components/issues/2962#issuecomment-2859375544) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🔒 Closed issue [#2962](https://github.com/adobe/spectrum-web-components/issues/2962) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+5. 🗣 Commented on [#2922](https://github.com/adobe/spectrum-web-components/issues/2922#issuecomment-2859372251) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
 <!--END_SECTION:activity-->
