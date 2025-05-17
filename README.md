@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1135](https://github.com/Azure/static-web-apps/issues/1135#issuecomment-2888401195) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
-2. ❌ Closed PR [#3748](https://github.com/adobe/spectrum-css/pull/3748) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#3755](https://github.com/adobe/spectrum-css/pull/3755) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#3755](https://github.com/adobe/spectrum-css/pull/3755#issuecomment-2887427035) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#3760](https://github.com/adobe/spectrum-css/pull/3760) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❌ Closed PR [#3746](https://github.com/adobe/spectrum-css/pull/3746) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❌ Closed PR [#3765](https://github.com/adobe/spectrum-css/pull/3765) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. 🗣 Commented on [#1135](https://github.com/Azure/static-web-apps/issues/1135#issuecomment-2888401195) in [Azure/static-web-apps](https://github.com/Azure/static-web-apps)
+4. ❌ Closed PR [#3748](https://github.com/adobe/spectrum-css/pull/3748) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#3755](https://github.com/adobe/spectrum-css/pull/3755) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
