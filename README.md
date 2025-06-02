@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/castastrophe/glob-concat-cli/pull/100) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. ❌ Closed PR [#3884](https://github.com/adobe/spectrum-css/pull/3884) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#98](https://github.com/castastrophe/glob-concat-cli/pull/98) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#129](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/129) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-5. 🎉 Merged PR [#128](https://github.com/castastrophe/postcss-licensing/pull/128) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+1. 🎉 Merged PR [#125](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/125) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+2. 🔒 Closed issue [#75](https://github.com/castastrophe/postcss-custom-prop-sorting/issues/75) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#127](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/127) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+4. 🎉 Merged PR [#99](https://github.com/castastrophe/glob-concat-cli/pull/99) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+5. 🎉 Merged PR [#124](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/124) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
 <!--END_SECTION:activity-->
