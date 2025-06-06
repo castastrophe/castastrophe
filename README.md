@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5491](https://github.com/adobe/spectrum-web-components/pull/5491) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. 🎉 Merged PR [#3792](https://github.com/adobe/spectrum-css/pull/3792) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🎉 Merged PR [#181](https://github.com/castastrophe/stylelint-header/pull/181) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-4. 💪 Opened PR [#5510](https://github.com/adobe/spectrum-web-components/pull/5510) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-5. 🎉 Merged PR [#3857](https://github.com/adobe/spectrum-css/pull/3857) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❌ Closed PR [#5519](https://github.com/adobe/spectrum-web-components/pull/5519) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 🎉 Merged PR [#5504](https://github.com/adobe/spectrum-web-components/pull/5504) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 🎉 Merged PR [#5491](https://github.com/adobe/spectrum-web-components/pull/5491) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🎉 Merged PR [#3792](https://github.com/adobe/spectrum-css/pull/3792) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. 🎉 Merged PR [#181](https://github.com/castastrophe/stylelint-header/pull/181) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
