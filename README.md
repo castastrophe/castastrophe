@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/castastrophe/glob-concat-cli/pull/103) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🎉 Merged PR [#101](https://github.com/castastrophe/glob-concat-cli/pull/101) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-3. 🎉 Merged PR [#102](https://github.com/castastrophe/glob-concat-cli/pull/102) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#132](https://github.com/castastrophe/postcss-licensing/pull/132) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
-5. 🎉 Merged PR [#104](https://github.com/castastrophe/glob-concat-cli/pull/104) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 🎉 Merged PR [#3996](https://github.com/adobe/spectrum-css/pull/3996) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❗ Opened issue [#5585](https://github.com/adobe/spectrum-web-components/issues/5585) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 🎉 Merged PR [#190](https://github.com/castastrophe/stylelint-header/pull/190) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 🎉 Merged PR [#130](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/130) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+5. 🎉 Merged PR [#135](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/135) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
 <!--END_SECTION:activity-->
