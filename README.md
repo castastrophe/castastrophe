@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5598](https://github.com/adobe/spectrum-web-components/pull/5598) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. 🎉 Merged PR [#5576](https://github.com/adobe/spectrum-web-components/pull/5576) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. 💪 Opened PR [#4029](https://github.com/adobe/spectrum-css/pull/4029) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#49](https://github.com/ljcl/storybook-addon-cssprops/issues/49#issuecomment-3063438854) in [ljcl/storybook-addon-cssprops](https://github.com/ljcl/storybook-addon-cssprops)
-5. 🎉 Merged PR [#4021](https://github.com/adobe/spectrum-css/pull/4021) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#4034](https://github.com/adobe/spectrum-css/pull/4034) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. 🎉 Merged PR [#194](https://github.com/castastrophe/stylelint-header/pull/194) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 🎉 Merged PR [#5598](https://github.com/adobe/spectrum-web-components/pull/5598) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. 🎉 Merged PR [#5576](https://github.com/adobe/spectrum-web-components/pull/5576) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+5. 💪 Opened PR [#4029](https://github.com/adobe/spectrum-css/pull/4029) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
