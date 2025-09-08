@@ -17,8 +17,8 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4197](https://github.com/adobe/spectrum-css/pull/4197) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. 🎉 Merged PR [#4201](https://github.com/adobe/spectrum-css/pull/4201) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 💪 Opened PR [#5718](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. 💪 Opened PR [#4193](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 3. 🎉 Merged PR [#4202](https://github.com/adobe/spectrum-css/pull/4202) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 4. 🎉 Merged PR [#145](https://github.com/castastrophe/postcss-licensing/pull/145) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
 5. 🎉 Merged PR [#205](https://github.com/castastrophe/stylelint-header/pull/205) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
