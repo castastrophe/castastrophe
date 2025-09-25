@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#5744](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-2. 🔒 Closed issue [#4243](https://github.com/adobe/spectrum-css/issues/4243) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. 🗣 Commented on [#4243](https://github.com/adobe/spectrum-css/issues/4243#issuecomment-3329176465) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Labeled PR [#5745](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-5. ❌ Labeled PR [#5745](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+1. ❌ Labeled PR [#5755](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+2. ❌ Assigned PR [#5755](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+3. 💪 Opened PR [#5755](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+4. ❌ Labeled PR [#5744](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
+5. 🔒 Closed issue [#4243](https://github.com/adobe/spectrum-css/issues/4243) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
