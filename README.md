@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/101) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
-2. 🗣 Commented on [#4248](https://github.com/adobe/spectrum-css/pull/4248#issuecomment-3356059376) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#4248](https://github.com/adobe/spectrum-css/pull/4248) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. 🗣 Commented on [#4247](https://github.com/adobe/spectrum-css/pull/4247#issuecomment-3356058822) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#4247](https://github.com/adobe/spectrum-css/pull/4247) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. 🎉 Merged PR [#147](https://github.com/castastrophe/postcss-licensing/pull/147) in [castastrophe/postcss-licensing](https://github.com/castastrophe/postcss-licensing)
+2. 🎉 Merged PR [#98](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/98) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+3. 🎉 Merged PR [#97](https://github.com/castastrophe/postcss-custom-properties-mapping/pull/97) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+4. 🎉 Merged PR [#217](https://github.com/castastrophe/stylelint-header/pull/217) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. 🎉 Merged PR [#214](https://github.com/castastrophe/stylelint-header/pull/214) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
