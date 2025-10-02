@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/castastrophe/glob-concat-cli/pull/109) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 🎉 Merged PR [#115](https://github.com/castastrophe/glob-concat-cli/pull/115) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-3. 🎉 Merged PR [#112](https://github.com/castastrophe/glob-concat-cli/pull/112) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-4. 🎉 Merged PR [#113](https://github.com/castastrophe/glob-concat-cli/pull/113) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-5. 🎉 Merged PR [#114](https://github.com/castastrophe/glob-concat-cli/pull/114) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+1. 🎉 Merged PR [#111](https://github.com/castastrophe/glob-concat-cli/pull/111) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+2. 🎉 Merged PR [#110](https://github.com/castastrophe/glob-concat-cli/pull/110) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. 🎉 Merged PR [#109](https://github.com/castastrophe/glob-concat-cli/pull/109) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+4. 🎉 Merged PR [#115](https://github.com/castastrophe/glob-concat-cli/pull/115) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+5. 🎉 Merged PR [#112](https://github.com/castastrophe/glob-concat-cli/pull/112) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
