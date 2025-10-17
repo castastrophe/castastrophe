@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3616](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. ❌ Closed PR [#4224](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#5745](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-4. ❌ Assigned PR [#4251](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Labeled PR [#4251](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❌ Labeled PR [#4255](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❌ Labeled PR [#4255](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. ❌ Labeled PR [#4255](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Labeled PR [#4255](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Assigned PR [#4255](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
