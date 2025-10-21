@@ -19,7 +19,7 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#4263](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 2. ❌ Unlabeled PR [#4263](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#4267](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Closed PR [#4268](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Labeled PR [#4260](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. ❌ Labeled PR [#4263](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Unlabeled PR [#4263](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Closed PR [#4267](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
