@@ -17,9 +17,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4259](https://github.com/adobe/spectrum-css/pull/4259#issuecomment-3452060209) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-2. ❌ Labeled PR [#4259](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#4294](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Labeled PR [#4296](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Unlabeled PR [#4296](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❌ Unlabeled PR [#4298](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+2. ❌ Labeled PR [#4298](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+3. ❌ Labeled PR [#4298](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+4. ❌ Labeled PR [#4298](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+5. ❌ Labeled PR [#4298](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
