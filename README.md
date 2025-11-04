@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#118](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. 💪 Opened PR [#120](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-3. ❌ Closed PR [#5755](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-4. ❌ Labeled PR [#4288](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Labeled PR [#4288](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❌ Closed PR [#92](undefined) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+2. ❌ Closed PR [#55](undefined) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+3. 🔒 Closed issue [#28](https://github.com/castastrophe/postcss-custom-properties-mapping/issues/28) in [castastrophe/postcss-custom-properties-mapping](https://github.com/castastrophe/postcss-custom-properties-mapping)
+4. ❌ Closed PR [#118](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+5. 💪 Opened PR [#120](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
