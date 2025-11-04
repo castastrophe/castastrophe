@@ -2,8 +2,6 @@
     <img alt="followers" title="Follow me on Mastodon" src="https://img.shields.io/mastodon/follow/109297102751309835?domain=https%3A%2F%2Ffront-end.social&label=Follow&logo=mastodon&logoColor=white&style=for-the-badge&labelColor=008080&color=006969"/></a>
   <a href="https://codepen.io/castastrophe/">
     <img alt="followers" title="Follow me on CodePen" src="https://img.shields.io/badge/23-1?color=640464&labelColor=7c007c&style=for-the-badge&logo=codepen&label=Follow"/></a>
-<a href="https://castastrophe.medium.com/">
-    <img alt="publishing" title="View articles on Medium" src="https://img.shields.io/badge/107-1?color=666&labelColor=444&label=subscribe&logo=medium&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ## [&nbsp;Cassondra&nbsp;]
