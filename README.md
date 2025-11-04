@@ -4,11 +4,11 @@
     <img alt="followers" title="Follow me on CodePen" src="https://img.shields.io/badge/23-1?color=640464&labelColor=7c007c&style=for-the-badge&logo=codepen&label=Follow"/></a>
 </p>
 
-## [&nbsp;Cassondra&nbsp;]
+## [&nbsp;Cassondra&nbsp;] Roberts
 
 <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/1840295/253016758-ba468774-1cd3-42c2-8f43-947b5eeb5edf.png" height="200" alt="A circular logo of a coffee cup viewed from above; abstract, dark outlines with hints of teal and creamy tones">
 
-Front-end developer and architect of enterprise-scale design systems, owner and consultant at Allons-Y; previously of Adobe and Red Hat.
+Front-end developer and architect of enterprise-scale design systems, owner and consultant at Allons-Y; previously of Adobe and Red Hat. Developer experience and accessibility are deeply important to me and these values guide the code that I produce and influence. One of the most enjoyable aspects of my job is open source community management; engaging with and connecting the contributors and consumers.
 
 Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work together.
 
@@ -21,3 +21,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 4. ❌ Labeled PR [#4288](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 5. ❌ Labeled PR [#4288](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
+
+## Funding ☕️
+
+If you find my work helpful and would like to buy me a coffee/beer as a small thank you, I would greatly appreciate it!
+
+<a href="https://www.buymeacoffee.com/castastrophe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
