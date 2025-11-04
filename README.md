@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#9](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-2. ❌ Labeled PR [#4](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-3. ❌ Labeled PR [#23](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-4. 🗣 Commented on [#3](https://github.com/castastrophe/actions-pr-auto-update/pull/3#issuecomment-3487386529) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-5. 🗣 Commented on [#9](https://github.com/castastrophe/actions-pr-auto-update/pull/9#issuecomment-3487386274) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+1. ❌ Closed PR [#227](undefined) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+2. ❌ Labeled PR [#9](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+3. ❌ Labeled PR [#4](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+4. ❌ Labeled PR [#23](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+5. 🗣 Commented on [#3](https://github.com/castastrophe/actions-pr-auto-update/pull/3#issuecomment-3487386529) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
