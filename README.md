@@ -15,9 +15,9 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
-2. ❌ Closed PR [#5755](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
-3. ❌ Labeled PR [#4298](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ❌ Closed PR [#118](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+2. 💪 Opened PR [#120](undefined) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3. ❌ Closed PR [#5755](undefined) in [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)
 4. ❌ Labeled PR [#4288](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 5. ❌ Labeled PR [#4288](undefined) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
 <!--END_SECTION:activity-->
