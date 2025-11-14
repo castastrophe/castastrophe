@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12451](https://github.com/w3c/csswg-drafts/issues/12451#issuecomment-3492470244) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-2. ❌ Closed PR [#227](undefined) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. ❌ Labeled PR [#9](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-4. ❌ Labeled PR [#4](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-5. ❌ Labeled PR [#23](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+1. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3532823643) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+2. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3532789169) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+3. 🗣 Commented on [#12451](https://github.com/w3c/csswg-drafts/issues/12451#issuecomment-3492470244) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+4. ❌ Closed PR [#227](undefined) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+5. ❌ Labeled PR [#9](undefined) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
