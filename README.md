@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#19](https://github.com/castastrophe/portfolio/issues/19) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-2.  Assigned issue [#19](https://github.com/castastrophe/portfolio/issues/19) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-3. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3532877374) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-4. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3532864527) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-5. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3532823643) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+1. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3542475967) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+2. 🗣 Commented on [#121](https://github.com/castastrophe/glob-concat-cli/pull/121#issuecomment-3542447170) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
+3.  Labeled issue [#19](https://github.com/castastrophe/portfolio/issues/19) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+4.  Assigned issue [#19](https://github.com/castastrophe/portfolio/issues/19) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+5. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3532877374) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
