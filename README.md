@@ -15,10 +15,10 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#12983](https://github.com/w3c/csswg-drafts/issues/12983) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-2. 🗣 Commented on [#12497](https://github.com/w3c/csswg-drafts/issues/12497#issuecomment-3576162344) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-3. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3563864913) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-4. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3542475967) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+1. 💪 Opened PR [#2](undefined) in [webplatformco/.github](https://github.com/webplatformco/.github)
+2.  Labeled issue [#12983](https://github.com/w3c/csswg-drafts/issues/12983) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+3. 🗣 Commented on [#12497](https://github.com/w3c/csswg-drafts/issues/12497#issuecomment-3576162344) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
+4. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3563864913) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 5. 🗣 Commented on [#121](https://github.com/castastrophe/glob-concat-cli/pull/121#issuecomment-3542447170) in [castastrophe/glob-concat-cli](https://github.com/castastrophe/glob-concat-cli)
 <!--END_SECTION:activity-->
 
