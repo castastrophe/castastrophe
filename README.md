@@ -15,7 +15,7 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [webplatformco/.github](https://github.com/webplatformco/.github)
+1. 💪 Opened PR [#2](https://github.com/webplatformco/.github/pull/2) in [webplatformco/.github](https://github.com/webplatformco/.github)
 2.  Labeled issue [#12983](https://github.com/w3c/csswg-drafts/issues/12983) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 3. 🗣 Commented on [#12497](https://github.com/w3c/csswg-drafts/issues/12497#issuecomment-3576162344) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 4. 🗣 Commented on [#13044](https://github.com/w3c/csswg-drafts/issues/13044#issuecomment-3563864913) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
