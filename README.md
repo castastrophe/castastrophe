@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+1. 🎉 Merged PR [#14](https://github.com/w3c/csswg-wiki/pull/14) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
 2. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-3. ℹ️ Assigned PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-4. 🗣 Commented on [#36](https://github.com/basecamp/hey-cli/issues/36#issuecomment-4050357239) in [basecamp/hey-cli](https://github.com/basecamp/hey-cli)
-5. ❗ Opened issue [#36](https://github.com/basecamp/hey-cli/issues/36) in [basecamp/hey-cli](https://github.com/basecamp/hey-cli)
+3. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+4. ℹ️ Assigned PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+5. 🗣 Commented on [#36](https://github.com/basecamp/hey-cli/issues/36#issuecomment-4050357239) in [basecamp/hey-cli](https://github.com/basecamp/hey-cli)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
