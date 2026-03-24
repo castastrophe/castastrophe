@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/castastrophe/portfolio/pull/37) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-2. 🎉 Merged PR [#14](https://github.com/w3c/csswg-wiki/pull/14) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
-3. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+1. 💪 Opened PR [#20](https://github.com/w3c/csswg-wiki/pull/20) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
+2. 💪 Opened PR [#37](https://github.com/castastrophe/portfolio/pull/37) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+3. 🎉 Merged PR [#14](https://github.com/w3c/csswg-wiki/pull/14) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
 4. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-5. ℹ️ Assigned PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+5. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
