@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/w3c/csswg-wiki/pull/20) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
-2. 💪 Opened PR [#20](https://github.com/w3c/csswg-wiki/pull/20) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
-3. 💪 Opened PR [#37](https://github.com/castastrophe/portfolio/pull/37) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-4. 🎉 Merged PR [#14](https://github.com/w3c/csswg-wiki/pull/14) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
-5. ℹ️ Labeled PR [#30](https://github.com/castastrophe/portfolio/pull/30) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+1. 🎉 Merged PR [#5](https://github.com/castastrophe/envoy/pull/5) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+2. 💪 Opened PR [#5](https://github.com/castastrophe/envoy/pull/5) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+3. 🚀 Published release [v1.0.0](https://github.com/castastrophe/envoy/releases/tag/v1.0.0) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+4. 🎉 Merged PR [#20](https://github.com/w3c/csswg-wiki/pull/20) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
+5. 💪 Opened PR [#20](https://github.com/w3c/csswg-wiki/pull/20) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
