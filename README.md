@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/castastrophe/envoy/pull/7) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
-2. 🚀 Published release [v1.1.0](https://github.com/castastrophe/envoy/releases/tag/v1.1.0) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
-3. 💪 Opened PR [#7](https://github.com/castastrophe/envoy/pull/7) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
-4. ❌ Closed PR [#3](https://github.com/castastrophe/envoy/pull/3) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
-5. 🎉 Merged PR [#5](https://github.com/castastrophe/envoy/pull/5) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+1. 🎉 Merged PR [#8](https://github.com/castastrophe/envoy/pull/8) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+2. 💪 Opened PR [#8](https://github.com/castastrophe/envoy/pull/8) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+3. 🎉 Merged PR [#7](https://github.com/castastrophe/envoy/pull/7) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+4. 🚀 Published release [v1.1.0](https://github.com/castastrophe/envoy/releases/tag/v1.1.0) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+5. 💪 Opened PR [#7](https://github.com/castastrophe/envoy/pull/7) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
