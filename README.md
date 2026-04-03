@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/castastrophe/envoy/issues/14) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
-2. ℹ️ Labeled PR [#245](https://github.com/castastrophe/stylelint-header/pull/245) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. ℹ️ Assigned PR [#245](https://github.com/castastrophe/stylelint-header/pull/245) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-4. ℹ️ Labeled issue [#10](https://github.com/castastrophe/envoy/issues/10) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
-5. ℹ️ Labeled issue [#11](https://github.com/castastrophe/envoy/issues/11) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+1. 🎉 Merged PR [#19](https://github.com/castastrophe/envoy/pull/19) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+2. 💪 Opened PR [#19](https://github.com/castastrophe/envoy/pull/19) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+3. 🎉 Merged PR [#16](https://github.com/castastrophe/envoy/pull/16) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+4. ℹ️ Assigned issue [#1](https://github.com/castastrophe/envoy/issues/1) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
+5. ℹ️ Labeled issue [#14](https://github.com/castastrophe/envoy/issues/14) in [castastrophe/envoy](https://github.com/castastrophe/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
