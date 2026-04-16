@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/castastrophe/portfolio/pull/44) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-2. 💪 Opened PR [#44](https://github.com/castastrophe/portfolio/pull/44) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-3. 🎉 Merged PR [#43](https://github.com/castastrophe/portfolio/pull/43) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-4. 💪 Opened PR [#43](https://github.com/castastrophe/portfolio/pull/43) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-5. 💪 Opened PR [#2](https://github.com/castastrophe/agent-skills/pull/2) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+1. 🗣 Commented on [#2](https://github.com/webplatformco/.github/pull/2#issuecomment-4262809110) in [webplatformco/.github](https://github.com/webplatformco/.github)
+2. ❌ Closed PR [#44](https://github.com/castastrophe/portfolio/pull/44) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+3. 💪 Opened PR [#44](https://github.com/castastrophe/portfolio/pull/44) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+4. 🎉 Merged PR [#43](https://github.com/castastrophe/portfolio/pull/43) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+5. 💪 Opened PR [#43](https://github.com/castastrophe/portfolio/pull/43) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
