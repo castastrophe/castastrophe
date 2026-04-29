@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-2. 💪 Opened PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-3. 💪 Opened PR [#54](https://github.com/castastrophe/portfolio/pull/54) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-4. 🎉 Merged PR [#53](https://github.com/castastrophe/portfolio/pull/53) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
-5. 💪 Opened PR [#53](https://github.com/castastrophe/portfolio/pull/53) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+1. 🗣 Commented on [#54](https://github.com/castastrophe/portfolio/pull/54#issuecomment-4347989288) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+2. 🎉 Merged PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+3. 💪 Opened PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+4. 💪 Opened PR [#54](https://github.com/castastrophe/portfolio/pull/54) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
+5. 🎉 Merged PR [#53](https://github.com/castastrophe/portfolio/pull/53) in [castastrophe/portfolio](https://github.com/castastrophe/portfolio)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
