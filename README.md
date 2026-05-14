@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/castastrophe/actions-pr-auto-update/releases/tag/v3.0.0) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-2. 🎉 Merged PR [#33](https://github.com/castastrophe/actions-pr-auto-update/pull/33) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-3. 💪 Opened PR [#33](https://github.com/castastrophe/actions-pr-auto-update/pull/33) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
-4. 🎉 Merged PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
-5. 💪 Opened PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
+1. 🎉 Merged PR [#2](https://github.com/castastrophe/agent-skills/pull/2) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+2. 🚀 Published release [v3.0.0](https://github.com/castastrophe/actions-pr-auto-update/releases/tag/v3.0.0) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+3. 🎉 Merged PR [#33](https://github.com/castastrophe/actions-pr-auto-update/pull/33) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+4. 💪 Opened PR [#33](https://github.com/castastrophe/actions-pr-auto-update/pull/33) in [castastrophe/actions-pr-auto-update](https://github.com/castastrophe/actions-pr-auto-update)
+5. 🎉 Merged PR [#265](https://github.com/castastrophe/stylelint-header/pull/265) in [castastrophe/stylelint-header](https://github.com/castastrophe/stylelint-header)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
