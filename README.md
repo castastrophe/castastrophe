@@ -15,11 +15,11 @@ Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work toge
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/castastrophe/agent-skills/pull/15#issuecomment-4460500013) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
-2. ℹ️ Labeled PR [#17](https://github.com/castastrophe/agent-skills/pull/17) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
-3. 🗣 Commented on [#17](https://github.com/castastrophe/agent-skills/pull/17#issuecomment-4460500589) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
-4. ℹ️ Labeled PR [#15](https://github.com/castastrophe/agent-skills/pull/15) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
-5. 🚀 Published release [v1.0.2](https://github.com/castastrophe/agent-skills/releases/tag/v1.0.2) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+1. 🗣 Commented on [#14](https://github.com/castastrophe/agent-skills/pull/14#issuecomment-4460544473) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+2. ℹ️ Labeled PR [#14](https://github.com/castastrophe/agent-skills/pull/14) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+3. ℹ️ Labeled PR [#13](https://github.com/castastrophe/agent-skills/pull/13) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+4. 🗣 Commented on [#13](https://github.com/castastrophe/agent-skills/pull/13#issuecomment-4460544165) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
+5. 🚀 Published release [v1.0.3](https://github.com/castastrophe/agent-skills/releases/tag/v1.0.3) in [castastrophe/agent-skills](https://github.com/castastrophe/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
