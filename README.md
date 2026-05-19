@@ -10,7 +10,7 @@
 
 Front-end developer and architect of enterprise-scale design systems, owner and consultant at Allons-Y; previously of Adobe and Red Hat. Developer experience and accessibility are deeply important to me and these values guide the code that I produce and influence. One of the most enjoyable aspects of my job is open source community management; engaging with and connecting the contributors and consumers.
 
-Visit [allons-y.llc](http://allons-y.llc/) for more about how we might work together.
+Visit [allons-y.studio](http://allons-y.studio/) for more about how we might work together.
 
 ### Recent activity
 
