@@ -8,7 +8,7 @@
 
 <img align="right" height="250" alt="A line-art animation of professionals standing together; two people shaking hands in the center" src="https://github.com/user-attachments/assets/6768bc7a-4e95-4b4c-afb8-141b868a71ee" />
 
-Front-end developer and architect of enterprise-scale design systems, leader at Allon-y Studio; previously of Adobe and Red Hat. Developer experience and accessibility are deeply important to me and these values guide the code that I produce and influence. One of the most enjoyable aspects of my job is open source community management; engaging with and connecting the contributors and consumers.
+Front-end developer and architect of enterprise-scale design systems, leader at Allons-y Studio; previously of Adobe and Red Hat. Developer experience and accessibility are deeply important to me and these values guide the code that I produce and influence. One of the most enjoyable aspects of my job is open source community management; engaging with and connecting the contributors and consumers.
 
 Visit [allons-y.studio](http://allons-y.studio/) for more about how we might work together.
 
