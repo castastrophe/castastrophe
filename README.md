@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Allons-y-Studio/agent-skills/pull/19) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
-2. 💪 Opened PR [#19](https://github.com/Allons-y-Studio/agent-skills/pull/19) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
-3. 🗣 Commented on [#14](https://github.com/Allons-y-Studio/agent-skills/pull/14#issuecomment-4460544473) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
-4. ℹ️ Labeled PR [#14](https://github.com/Allons-y-Studio/agent-skills/pull/14) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
-5. ℹ️ Labeled PR [#13](https://github.com/Allons-y-Studio/agent-skills/pull/13) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
+1. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4492978899) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+2. 🎉 Merged PR [#19](https://github.com/Allons-y-Studio/agent-skills/pull/19) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
+3. 💪 Opened PR [#19](https://github.com/Allons-y-Studio/agent-skills/pull/19) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
+4. 🗣 Commented on [#14](https://github.com/Allons-y-Studio/agent-skills/pull/14#issuecomment-4460544473) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
+5. ℹ️ Labeled PR [#14](https://github.com/Allons-y-Studio/agent-skills/pull/14) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
