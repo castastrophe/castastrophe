@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Allons-y-Studio/agent-skills/pull/22) in [Allons-y-Studio/agent-skills](https://github.com/Allons-y-Studio/agent-skills)
-2. ℹ️ Unlabeled issue [#10](https://github.com/Allons-y-Studio/envoy/issues/10) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-3. ℹ️ Unlabeled issue [#11](https://github.com/Allons-y-Studio/envoy/issues/11) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-4. ℹ️ Unlabeled issue [#14](https://github.com/Allons-y-Studio/envoy/issues/14) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-5. ℹ️ Unlabeled issue [#17](https://github.com/Allons-y-Studio/envoy/issues/17) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+1. ℹ️ Labeled issue [#27](https://github.com/Allons-y-Studio/envoy/issues/27) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+2. ❗ Opened issue [#27](https://github.com/Allons-y-Studio/envoy/issues/27) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+3. ℹ️ Labeled issue [#26](https://github.com/Allons-y-Studio/envoy/issues/26) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+4. ❗ Opened issue [#26](https://github.com/Allons-y-Studio/envoy/issues/26) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+5. ℹ️ Labeled issue [#25](https://github.com/Allons-y-Studio/envoy/issues/25) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
