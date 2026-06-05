@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#191](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/191) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-2. ❌ Closed PR [#4298](https://github.com/adobe/spectrum-css/pull/4298) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-3. ❌ Closed PR [#4288](https://github.com/adobe/spectrum-css/pull/4288) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-4. ❌ Closed PR [#4287](https://github.com/adobe/spectrum-css/pull/4287) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
-5. ❌ Closed PR [#4187](https://github.com/adobe/spectrum-css/pull/4187) in [adobe/spectrum-css](https://github.com/adobe/spectrum-css)
+1. ℹ️ Assigned issue [#27](https://github.com/Allons-y-Studio/envoy/issues/27) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+2. ℹ️ Assigned issue [#26](https://github.com/Allons-y-Studio/envoy/issues/26) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+3. ℹ️ Assigned issue [#25](https://github.com/Allons-y-Studio/envoy/issues/25) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+4. ℹ️ Assigned issue [#18](https://github.com/Allons-y-Studio/envoy/issues/18) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+5. ℹ️ Assigned issue [#17](https://github.com/Allons-y-Studio/envoy/issues/17) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
