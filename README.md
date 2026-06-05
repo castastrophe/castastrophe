@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#27](https://github.com/Allons-y-Studio/envoy/issues/27) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-2. ℹ️ Assigned issue [#26](https://github.com/Allons-y-Studio/envoy/issues/26) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-3. ℹ️ Assigned issue [#25](https://github.com/Allons-y-Studio/envoy/issues/25) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-4. ℹ️ Assigned issue [#18](https://github.com/Allons-y-Studio/envoy/issues/18) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
-5. ℹ️ Assigned issue [#17](https://github.com/Allons-y-Studio/envoy/issues/17) in [Allons-y-Studio/envoy](https://github.com/Allons-y-Studio/envoy)
+1. 💪 Opened PR [#2](https://github.com/allonsy-studio/.github/pull/2) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 🎉 Merged PR [#1](https://github.com/allonsy-studio/.github/pull/1) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 💪 Opened PR [#1](https://github.com/allonsy-studio/.github/pull/1) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+4. ℹ️ Assigned issue [#27](https://github.com/allonsy-studio/envoy/issues/27) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+5. ℹ️ Assigned issue [#26](https://github.com/allonsy-studio/envoy/issues/26) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
