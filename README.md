@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#714](https://github.com/GoogleChrome/modern-web-guidance-src/issues/714#issuecomment-4650203693) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-2. 🎉 Merged PR [#2](https://github.com/allonsy-studio/template-actions/pull/2) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-3. 💪 Opened PR [#2](https://github.com/allonsy-studio/template-actions/pull/2) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-4. 🎉 Merged PR [#1](https://github.com/allonsy-studio/template-actions/pull/1) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-5. 💪 Opened PR [#1](https://github.com/allonsy-studio/template-actions/pull/1) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+1. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4720948035) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+2. 🗣 Commented on [#714](https://github.com/GoogleChrome/modern-web-guidance-src/issues/714#issuecomment-4650203693) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+3. 🎉 Merged PR [#2](https://github.com/allonsy-studio/template-actions/pull/2) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+4. 💪 Opened PR [#2](https://github.com/allonsy-studio/template-actions/pull/2) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+5. 🎉 Merged PR [#1](https://github.com/allonsy-studio/template-actions/pull/1) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
