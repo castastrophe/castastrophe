@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4720948035) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-2. 🗣 Commented on [#714](https://github.com/GoogleChrome/modern-web-guidance-src/issues/714#issuecomment-4650203693) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-3. 🎉 Merged PR [#2](https://github.com/allonsy-studio/template-actions/pull/2) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-4. 💪 Opened PR [#2](https://github.com/allonsy-studio/template-actions/pull/2) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-5. 🎉 Merged PR [#1](https://github.com/allonsy-studio/template-actions/pull/1) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+1. 💪 Opened PR [#29](https://github.com/allonsy-studio/envoy/pull/29) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+2. 💪 Opened PR [#37](https://github.com/allonsy-studio/actions-pr-auto-update/pull/37) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+3. 💪 Opened PR [#27](https://github.com/allonsy-studio/agent-skills/pull/27) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+4. 💪 Opened PR [#1](https://github.com/allonsy-studio/actions-weaver/pull/1) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+5. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4720948035) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
