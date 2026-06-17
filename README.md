@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#519](https://github.com/ota-meshi/eslint-plugin-jsonc/pull/519) in [ota-meshi/eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc)
-2. 💪 Opened PR [#182](https://github.com/allonsy-studio/postcss-licensing/pull/182) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
-3. 💪 Opened PR [#269](https://github.com/allonsy-studio/stylelint-header/pull/269) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-4. 💪 Opened PR [#3](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/3) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-5. 💪 Opened PR [#154](https://github.com/allonsy-studio/glob-concat-cli/pull/154) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+1. 🎉 Merged PR [#38](https://github.com/allonsy-studio/actions-pr-auto-update/pull/38) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+2. 🎉 Merged PR [#269](https://github.com/allonsy-studio/stylelint-header/pull/269) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+3. 🎉 Merged PR [#182](https://github.com/allonsy-studio/postcss-licensing/pull/182) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+4. 🎉 Merged PR [#3](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/3) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+5. 💪 Opened PR [#519](https://github.com/ota-meshi/eslint-plugin-jsonc/pull/519) in [ota-meshi/eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
