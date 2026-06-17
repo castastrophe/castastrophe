@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/allonsy-studio/envoy/pull/29) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-2. 💪 Opened PR [#37](https://github.com/allonsy-studio/actions-pr-auto-update/pull/37) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
-3. 💪 Opened PR [#27](https://github.com/allonsy-studio/agent-skills/pull/27) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-4. 💪 Opened PR [#1](https://github.com/allonsy-studio/actions-weaver/pull/1) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-5. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4720948035) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+1. 💪 Opened PR [#182](https://github.com/allonsy-studio/postcss-licensing/pull/182) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+2. 💪 Opened PR [#269](https://github.com/allonsy-studio/stylelint-header/pull/269) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+3. 💪 Opened PR [#3](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/3) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+4. 💪 Opened PR [#154](https://github.com/allonsy-studio/glob-concat-cli/pull/154) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 💪 Opened PR [#38](https://github.com/allonsy-studio/actions-pr-auto-update/pull/38) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
