@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/allonsy-studio/envoy/pull/29) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-2. 🎉 Merged PR [#30](https://github.com/allonsy-studio/envoy/pull/30) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-3. 🎉 Merged PR [#38](https://github.com/allonsy-studio/actions-pr-auto-update/pull/38) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
-4. 🎉 Merged PR [#269](https://github.com/allonsy-studio/stylelint-header/pull/269) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-5. 🎉 Merged PR [#182](https://github.com/allonsy-studio/postcss-licensing/pull/182) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+1. 🎉 Merged PR [#37](https://github.com/allonsy-studio/actions-pr-auto-update/pull/37) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+2. 🎉 Merged PR [#29](https://github.com/allonsy-studio/envoy/pull/29) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+3. 🎉 Merged PR [#30](https://github.com/allonsy-studio/envoy/pull/30) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+4. 🎉 Merged PR [#38](https://github.com/allonsy-studio/actions-pr-auto-update/pull/38) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+5. 🎉 Merged PR [#269](https://github.com/allonsy-studio/stylelint-header/pull/269) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
