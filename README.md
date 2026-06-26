@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-4771133335) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-2. 🎉 Merged PR [#155](https://github.com/allonsy-studio/glob-concat-cli/pull/155) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-3. 💪 Opened PR [#155](https://github.com/allonsy-studio/glob-concat-cli/pull/155) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-4. 🎉 Merged PR [#37](https://github.com/allonsy-studio/actions-pr-auto-update/pull/37) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
-5. 🎉 Merged PR [#29](https://github.com/allonsy-studio/envoy/pull/29) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+1. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4811058723) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+2. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-4771133335) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+3. 🎉 Merged PR [#155](https://github.com/allonsy-studio/glob-concat-cli/pull/155) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+4. 💪 Opened PR [#155](https://github.com/allonsy-studio/glob-concat-cli/pull/155) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 🎉 Merged PR [#37](https://github.com/allonsy-studio/actions-pr-auto-update/pull/37) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
