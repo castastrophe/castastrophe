@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-4836244426) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-2. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4835291089) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-3. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4835288901) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-4. ℹ️ Assigned issue [#3](https://github.com/webplatformco/.github/issues/3) in [webplatformco/.github](https://github.com/webplatformco/.github)
-5. ❗ Opened issue [#3](https://github.com/webplatformco/.github/issues/3) in [webplatformco/.github](https://github.com/webplatformco/.github)
+1. 🎉 Merged PR [#3](https://github.com/allonsy-studio/.github/pull/3) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 💪 Opened PR [#3](https://github.com/allonsy-studio/.github/pull/3) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-4836244426) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+4. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4835291089) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+5. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-4835288901) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
