@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/allonsy-studio/agent-skills/pull/39) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-2. 🎉 Merged PR [#37](https://github.com/allonsy-studio/agent-skills/pull/37) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-3. 💪 Opened PR [#39](https://github.com/allonsy-studio/agent-skills/pull/39) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-4. 🎉 Merged PR [#216](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/216) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-5. 💪 Opened PR [#216](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/216) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+1. 🎉 Merged PR [#32](https://github.com/allonsy-studio/agent-skills/pull/32) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+2. 🔒 Closed issue [#28](https://github.com/allonsy-studio/agent-skills/issues/28) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+3. 🎉 Merged PR [#39](https://github.com/allonsy-studio/agent-skills/pull/39) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+4. 🎉 Merged PR [#37](https://github.com/allonsy-studio/agent-skills/pull/37) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+5. 💪 Opened PR [#39](https://github.com/allonsy-studio/agent-skills/pull/39) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
