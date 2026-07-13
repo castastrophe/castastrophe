@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/w3c/csswg-wiki/pull/28) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
-2. 🎉 Merged PR [#5](https://github.com/allonsy-studio/.github/pull/5) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 💪 Opened PR [#5](https://github.com/allonsy-studio/.github/pull/5) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-4. 🎉 Merged PR [#43](https://github.com/allonsy-studio/agent-skills/pull/43) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-5. 💪 Opened PR [#44](https://github.com/allonsy-studio/agent-skills/pull/44) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+1. 🎉 Merged PR [#28](https://github.com/w3c/csswg-wiki/pull/28) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
+2. 💪 Opened PR [#28](https://github.com/w3c/csswg-wiki/pull/28) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
+3. 🎉 Merged PR [#5](https://github.com/allonsy-studio/.github/pull/5) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+4. 💪 Opened PR [#5](https://github.com/allonsy-studio/.github/pull/5) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+5. 🎉 Merged PR [#43](https://github.com/allonsy-studio/agent-skills/pull/43) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
