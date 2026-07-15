@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/allonsy-studio/actions-weaver/pull/2) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-2. 💪 Opened PR [#2](https://github.com/allonsy-studio/actions-weaver/pull/2) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-3. 🎉 Merged PR [#1](https://github.com/allonsy-studio/actions-weaver/pull/1) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-4. ℹ️ Assigned PR [#1](https://github.com/allonsy-studio/actions-weaver/pull/1) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-5. 🎉 Merged PR [#28](https://github.com/w3c/csswg-wiki/pull/28) in [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki)
+1. 🎉 Merged PR [#7](https://github.com/allonsy-studio/.github/pull/7) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 💪 Opened PR [#7](https://github.com/allonsy-studio/.github/pull/7) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 🎉 Merged PR [#6](https://github.com/allonsy-studio/.github/pull/6) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+4. 💪 Opened PR [#6](https://github.com/allonsy-studio/.github/pull/6) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+5. 🎉 Merged PR [#49](https://github.com/allonsy-studio/agent-skills/pull/49) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
