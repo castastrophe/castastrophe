@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/allonsy-studio/template-actions/pull/3) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-2. 💪 Opened PR [#10](https://github.com/allonsy-studio/actions-weaver/pull/10) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-3. 🚀 Published release [v3](https://github.com/allonsy-studio/actions-weaver/releases/tag/v3) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-4. ℹ️ Assigned PR [#9](https://github.com/allonsy-studio/actions-weaver/pull/9) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-5. 🎉 Merged PR [#8](https://github.com/allonsy-studio/actions-weaver/pull/8) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+1. 🎉 Merged PR [#3](https://github.com/allonsy-studio/template-actions/pull/3) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+2. 🎉 Merged PR [#12](https://github.com/allonsy-studio/actions-weaver/pull/12) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+3. 💪 Opened PR [#12](https://github.com/allonsy-studio/actions-weaver/pull/12) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+4. 🎉 Merged PR [#10](https://github.com/allonsy-studio/actions-weaver/pull/10) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+5. 💪 Opened PR [#3](https://github.com/allonsy-studio/template-actions/pull/3) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
