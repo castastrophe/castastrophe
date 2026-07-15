@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/allonsy-studio/glob-concat-cli/pull/158) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-2. 💪 Opened PR [#186](https://github.com/allonsy-studio/postcss-licensing/pull/186) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
-3. 💪 Opened PR [#271](https://github.com/allonsy-studio/stylelint-header/pull/271) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-4. 🎉 Merged PR [#14](https://github.com/allonsy-studio/actions-weaver/pull/14) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-5. 🎉 Merged PR [#184](https://github.com/allonsy-studio/postcss-licensing/pull/184) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+1. ❌ Closed PR [#187](https://github.com/allonsy-studio/postcss-licensing/pull/187) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+2. 💪 Opened PR [#187](https://github.com/allonsy-studio/postcss-licensing/pull/187) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+3. 🎉 Merged PR [#186](https://github.com/allonsy-studio/postcss-licensing/pull/186) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+4. 🎉 Merged PR [#271](https://github.com/allonsy-studio/stylelint-header/pull/271) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+5. 🎉 Merged PR [#158](https://github.com/allonsy-studio/glob-concat-cli/pull/158) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
