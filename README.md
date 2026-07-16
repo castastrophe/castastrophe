@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#272](https://github.com/allonsy-studio/stylelint-header/pull/272) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-2. 💪 Opened PR [#272](https://github.com/allonsy-studio/stylelint-header/pull/272) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-3. 🎉 Merged PR [#191](https://github.com/allonsy-studio/postcss-licensing/pull/191) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
-4. 💪 Opened PR [#191](https://github.com/allonsy-studio/postcss-licensing/pull/191) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
-5. 🚀 Published release [v6.0.0](https://github.com/allonsy-studio/postcss-licensing/releases/tag/v6.0.0) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+1. 🎉 Merged PR [#274](https://github.com/allonsy-studio/stylelint-header/pull/274) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+2. 💪 Opened PR [#274](https://github.com/allonsy-studio/stylelint-header/pull/274) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+3. 🎉 Merged PR [#272](https://github.com/allonsy-studio/stylelint-header/pull/272) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+4. 💪 Opened PR [#272](https://github.com/allonsy-studio/stylelint-header/pull/272) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+5. 🎉 Merged PR [#191](https://github.com/allonsy-studio/postcss-licensing/pull/191) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
