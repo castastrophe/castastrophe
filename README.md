@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#284](https://github.com/allonsy-studio/stylelint-header/issues/284) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-2. 💪 Opened PR [#36](https://github.com/allonsy-studio/envoy/pull/36) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-3. 🎉 Merged PR [#35](https://github.com/allonsy-studio/envoy/pull/35) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-4. 🎉 Merged PR [#282](https://github.com/allonsy-studio/stylelint-header/pull/282) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-5. 💪 Opened PR [#282](https://github.com/allonsy-studio/stylelint-header/pull/282) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+1. 🔒 Closed issue [#284](https://github.com/allonsy-studio/stylelint-header/issues/284) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+2. 🎉 Merged PR [#285](https://github.com/allonsy-studio/stylelint-header/pull/285) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+3. 🎉 Merged PR [#36](https://github.com/allonsy-studio/envoy/pull/36) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+4. 💪 Opened PR [#285](https://github.com/allonsy-studio/stylelint-header/pull/285) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+5. ❗ Opened issue [#284](https://github.com/allonsy-studio/stylelint-header/issues/284) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
