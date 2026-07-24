@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-2. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-5046538087) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-3. 🔒 Closed issue [#284](https://github.com/allonsy-studio/stylelint-header/issues/284) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-4. 🎉 Merged PR [#285](https://github.com/allonsy-studio/stylelint-header/pull/285) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-5. 🎉 Merged PR [#36](https://github.com/allonsy-studio/envoy/pull/36) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+1. 🎉 Merged PR [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+2. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-5072725168) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+3. 🎉 Merged PR [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+4. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-5046538087) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+5. 🔒 Closed issue [#284](https://github.com/allonsy-studio/stylelint-header/issues/284) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
