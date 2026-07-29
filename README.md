@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/somerandomdude/design-system-documentation-schema/issues/28) in [somerandomdude/design-system-documentation-schema](https://github.com/somerandomdude/design-system-documentation-schema)
-2. 🎉 Merged PR [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-3. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-5072725168) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-4. 🎉 Merged PR [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-5. 🗣 Commented on [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738#issuecomment-5046538087) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+1. 💪 Opened PR [#1](https://github.com/castastrophe/educational-content/pull/1) in [castastrophe/educational-content](https://github.com/castastrophe/educational-content)
+2. ❗ Opened issue [#28](https://github.com/somerandomdude/design-system-documentation-schema/issues/28) in [somerandomdude/design-system-documentation-schema](https://github.com/somerandomdude/design-system-documentation-schema)
+3. 🎉 Merged PR [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+4. 🗣 Commented on [#803](https://github.com/GoogleChrome/modern-web-guidance-src/pull/803#issuecomment-5072725168) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+5. 🎉 Merged PR [#738](https://github.com/GoogleChrome/modern-web-guidance-src/pull/738) in [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
