@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-2. 🎉 Merged PR [#280](https://github.com/allonsy-studio/stylelint-header/pull/280) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-3. 🎉 Merged PR [#195](https://github.com/allonsy-studio/postcss-licensing/pull/195) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
-4. 🗣 Commented on [#14172](https://github.com/w3c/csswg-drafts/issues/14172#issuecomment-5163356036) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
-5. 🔒 Closed issue [#28](https://github.com/somerandomdude/design-system-documentation-schema/issues/28) in [somerandomdude/design-system-documentation-schema](https://github.com/somerandomdude/design-system-documentation-schema)
+1. 🎉 Merged PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+2. 💪 Opened PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+3. 🎉 Merged PR [#280](https://github.com/allonsy-studio/stylelint-header/pull/280) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+4. 🎉 Merged PR [#195](https://github.com/allonsy-studio/postcss-licensing/pull/195) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+5. 🗣 Commented on [#14172](https://github.com/w3c/csswg-drafts/issues/14172#issuecomment-5163356036) in [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
