@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/allonsy-studio/agent-skills/pull/52) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-2. 💪 Opened PR [#52](https://github.com/allonsy-studio/agent-skills/pull/52) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-3. 🎉 Merged PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-4. 💪 Opened PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-5. 🎉 Merged PR [#280](https://github.com/allonsy-studio/stylelint-header/pull/280) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+1. 🎉 Merged PR [#4](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/4) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+2. 💪 Opened PR [#4](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/4) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+3. 🎉 Merged PR [#52](https://github.com/allonsy-studio/agent-skills/pull/52) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+4. 💪 Opened PR [#52](https://github.com/allonsy-studio/agent-skills/pull/52) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+5. 🎉 Merged PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
