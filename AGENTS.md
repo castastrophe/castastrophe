@@ -21,7 +21,7 @@ here. The pronoun-free voice in
 client-facing studio material, not to this page. Don't "fix" one to match the other.
 
 Chicago Manual of Style otherwise, with the studio's exceptions: sentence-case
-headings, `&` over "and", numerals over spelled-out numbers, en dashes in ranges.
+headings, `&` over "and", numerals over spelled-out numbers, en dashes in ranges. Prefer `:` over em dashes.
 
 ## Conventions
 
