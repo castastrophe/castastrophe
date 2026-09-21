@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/4) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-2. 💪 Opened PR [#4](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/4) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-3. 🎉 Merged PR [#52](https://github.com/allonsy-studio/agent-skills/pull/52) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-4. 💪 Opened PR [#52](https://github.com/allonsy-studio/agent-skills/pull/52) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-5. 🎉 Merged PR [#50](https://github.com/allonsy-studio/agent-skills/pull/50) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+1. 🎉 Merged PR [#38](https://github.com/allonsy-studio/envoy/pull/38) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+2. 🎉 Merged PR [#235](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/235) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
+3. 🎉 Merged PR [#163](https://github.com/allonsy-studio/glob-concat-cli/pull/163) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+4. 🎉 Merged PR [#6](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/6) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+5. 🎉 Merged PR [#7](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/7) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
