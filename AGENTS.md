@@ -1,6 +1,6 @@
 # castastrophe/castastrophe
 
-The GitHub profile README — the page shown at github.com/castastrophe. There is no
+The GitHub profile README: the page shown at github.com/castastrophe. There is no
 build, no package, and no tests. `README.md` is the entire deliverable.
 
 ## Do not edit the activity section
@@ -15,7 +15,7 @@ Everything outside those markers is hand-written and safe to edit.
 
 ## Voice
 
-This is the personal profile, not studio copy — first person ("I", "me") is correct
+This is the personal profile, not studio copy: first person ("I", "me") is correct
 here. The pronoun-free voice in
 [`allonsy-studio/.github`](https://github.com/allonsy-studio/.github) applies to
 client-facing studio material, not to this page. Don't "fix" one to match the other.
@@ -25,7 +25,7 @@ headings, `&` over "and", numerals over spelled-out numbers, en dashes in ranges
 
 ## Conventions
 
-- Badges and the funding block are raw HTML on purpose — GitHub's profile renderer
+- Badges and the funding block are raw HTML on purpose: GitHub's profile renderer
   needs the alignment attributes that markdown can't express. Leave them as HTML.
 - Renovate keeps the workflow's action versions current; don't pin them by hand.
 
