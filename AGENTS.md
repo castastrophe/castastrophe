@@ -20,8 +20,7 @@ here. The pronoun-free voice in
 [`allonsy-studio/.github`](https://github.com/allonsy-studio/.github) applies to
 client-facing studio material, not to this page. Don't "fix" one to match the other.
 
-Chicago Manual of Style otherwise, with the studio's exceptions: sentence-case
-headings, `&` over "and", numerals over spelled-out numbers, en dashes in ranges. Prefer `:` over em dashes.
+Everything else follows the [style guide](https://github.com/castastrophe/.github/blob/main/AGENTS.md#style-guide).
 
 ## Conventions
 
@@ -31,9 +30,3 @@ headings, `&` over "and", numerals over spelled-out numbers, en dashes in ranges
 
 Never add AI attribution to a commit or a PR: no `Co-Authored-By` trailer, no
 "Generated with …" footer, no session URLs.
-
-## Prose style
-
-Prose in this repo (README, commit bodies, PR descriptions) follows the
-[style guide](https://github.com/castastrophe/.github/blob/main/AGENTS.md#style-guide):
-sentence-case headings, `&` over "and", `:` over em dashes.
