@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/allonsy-studio/envoy/pull/38) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-2. 🎉 Merged PR [#235](https://github.com/castastrophe/postcss-custom-prop-sorting/pull/235) in [castastrophe/postcss-custom-prop-sorting](https://github.com/castastrophe/postcss-custom-prop-sorting)
-3. 🎉 Merged PR [#163](https://github.com/allonsy-studio/glob-concat-cli/pull/163) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-4. 🎉 Merged PR [#6](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/6) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-5. 🎉 Merged PR [#7](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/7) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+1. 🎉 Merged PR [#9](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/9) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+2. 💪 Opened PR [#9](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/9) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+3. 🎉 Merged PR [#8](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/8) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+4. 🔒 Closed issue [#7](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/issues/7) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+5. 💪 Opened PR [#8](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/8) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
