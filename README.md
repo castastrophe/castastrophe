@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/allonsy-studio/opx/pull/30) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 💪 Opened PR [#30](https://github.com/allonsy-studio/opx/pull/30) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 🎉 Merged PR [#27](https://github.com/allonsy-studio/opx/pull/27) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. 🎉 Merged PR [#29](https://github.com/allonsy-studio/opx/pull/29) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. 💪 Opened PR [#29](https://github.com/allonsy-studio/opx/pull/29) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 💪 Opened PR [#18](https://github.com/allonsy-studio/.github/pull/18) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 🎉 Merged PR [#17](https://github.com/allonsy-studio/.github/pull/17) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 💪 Opened PR [#22](https://github.com/allonsy-studio/dashly/pull/22) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+4. 💪 Opened PR [#17](https://github.com/allonsy-studio/.github/pull/17) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+5. 🎉 Merged PR [#16](https://github.com/allonsy-studio/.github/pull/16) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
