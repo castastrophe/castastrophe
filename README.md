@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/allonsy-studio/.github/pull/21) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-2. 💪 Opened PR [#21](https://github.com/allonsy-studio/.github/pull/21) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 🎉 Merged PR [#20](https://github.com/allonsy-studio/.github/pull/20) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-4. 💪 Opened PR [#20](https://github.com/allonsy-studio/.github/pull/20) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-5. 🎉 Merged PR [#19](https://github.com/allonsy-studio/.github/pull/19) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+1. 🎉 Merged PR [#23](https://github.com/allonsy-studio/dashly/pull/23) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+2. 💪 Opened PR [#24](https://github.com/allonsy-studio/.github/pull/24) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 💪 Opened PR [#3](https://github.com/castastrophe/.github/pull/3) in [castastrophe/.github](https://github.com/castastrophe/.github)
+4. 💪 Opened PR [#11](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/11) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+5. 💪 Opened PR [#23](https://github.com/allonsy-studio/dashly/pull/23) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
