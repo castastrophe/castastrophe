@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/allonsy-studio/agent-skills/pull/61) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-2. 🎉 Merged PR [#58](https://github.com/allonsy-studio/agent-skills/pull/58) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-3. 💪 Opened PR [#59](https://github.com/allonsy-studio/agent-skills/pull/59) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-4. 💪 Opened PR [#58](https://github.com/allonsy-studio/agent-skills/pull/58) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-5. 🎉 Merged PR [#26](https://github.com/allonsy-studio/.github/pull/26) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+1. ℹ️ Labeled issue [#69](https://github.com/allonsy-studio/agent-skills/issues/69) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+2. ❗ Opened issue [#69](https://github.com/allonsy-studio/agent-skills/issues/69) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+3. ℹ️ Labeled issue [#68](https://github.com/allonsy-studio/agent-skills/issues/68) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+4. ❗ Opened issue [#68](https://github.com/allonsy-studio/agent-skills/issues/68) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+5. ℹ️ Labeled issue [#66](https://github.com/allonsy-studio/agent-skills/issues/66) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
