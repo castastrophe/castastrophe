@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/allonsy-studio/agent-skills/pull/58) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-2. 🎉 Merged PR [#26](https://github.com/allonsy-studio/.github/pull/26) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 🎉 Merged PR [#23](https://github.com/allonsy-studio/.github/pull/23) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-4. 🎉 Merged PR [#10](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/10) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-5. 💪 Opened PR [#13](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/13) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+1. 💪 Opened PR [#59](https://github.com/allonsy-studio/agent-skills/pull/59) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+2. 💪 Opened PR [#58](https://github.com/allonsy-studio/agent-skills/pull/58) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+3. 🎉 Merged PR [#26](https://github.com/allonsy-studio/.github/pull/26) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+4. 🎉 Merged PR [#23](https://github.com/allonsy-studio/.github/pull/23) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+5. 🎉 Merged PR [#10](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/10) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
