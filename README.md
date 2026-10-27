@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/allonsy-studio/opx/pull/38) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 🎉 Merged PR [#36](https://github.com/allonsy-studio/opx/pull/36) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 💪 Opened PR [#36](https://github.com/allonsy-studio/opx/pull/36) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. 🎉 Merged PR [#57](https://github.com/allonsy-studio/agent-skills/pull/57) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-5. 🎉 Merged PR [#34](https://github.com/allonsy-studio/opx/pull/34) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 💪 Opened PR [#29](https://github.com/allonsy-studio/.github/pull/29) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 💪 Opened PR [#38](https://github.com/allonsy-studio/opx/pull/38) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+3. 🎉 Merged PR [#36](https://github.com/allonsy-studio/opx/pull/36) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+4. 💪 Opened PR [#36](https://github.com/allonsy-studio/opx/pull/36) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+5. 🎉 Merged PR [#57](https://github.com/allonsy-studio/agent-skills/pull/57) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
