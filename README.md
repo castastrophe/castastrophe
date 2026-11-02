@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#38](https://github.com/allonsy-studio/opx/pull/38) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 🎉 Merged PR [#29](https://github.com/allonsy-studio/.github/pull/29) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 💪 Opened PR [#30](https://github.com/allonsy-studio/.github/pull/30) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-4. 💪 Opened PR [#29](https://github.com/allonsy-studio/.github/pull/29) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-5. 💪 Opened PR [#38](https://github.com/allonsy-studio/opx/pull/38) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 🎉 Merged PR [#11](https://github.com/allonsy-studio/webc-resources/pull/11) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+2. ℹ️ Labeled issue [#13](https://github.com/allonsy-studio/webc-resources/issues/13) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+3. ℹ️ Labeled issue [#13](https://github.com/allonsy-studio/webc-resources/issues/13) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+4. ❗ Opened issue [#13](https://github.com/allonsy-studio/webc-resources/issues/13) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+5. ℹ️ Labeled issue [#12](https://github.com/allonsy-studio/webc-resources/issues/12) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
