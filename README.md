@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/allonsy-studio/webc-docs/pull/9) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-2. 💪 Opened PR [#9](https://github.com/allonsy-studio/webc-docs/pull/9) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-3. 💪 Opened PR [#16](https://github.com/allonsy-studio/webc-resources/pull/16) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
-4. 💪 Opened PR [#15](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/15) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-5. 💪 Opened PR [#25](https://github.com/allonsy-studio/dashly/pull/25) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+1. 🎉 Merged PR [#16](https://github.com/allonsy-studio/webc-resources/pull/16) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+2. 🎉 Merged PR [#15](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/15) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+3. 🎉 Merged PR [#25](https://github.com/allonsy-studio/dashly/pull/25) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+4. 🎉 Merged PR [#40](https://github.com/allonsy-studio/opx/pull/40) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+5. ❌ Closed PR [#9](https://github.com/allonsy-studio/webc-docs/pull/9) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
