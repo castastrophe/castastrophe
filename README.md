@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/allonsy-studio/dashly/pull/26) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
-2. 🎉 Merged PR [#2](https://github.com/allonsy-studio/allonsy-studio.github.io/pull/2) in [allonsy-studio/allonsy-studio.github.io](https://github.com/allonsy-studio/allonsy-studio.github.io)
-3. 🎉 Merged PR [#27](https://github.com/allonsy-studio/actions-weaver/pull/27) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-4. 🎉 Merged PR [#80](https://github.com/allonsy-studio/agent-skills/pull/80) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-5. 🎉 Merged PR [#29](https://github.com/allonsy-studio/dashly/pull/29) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+1. 🎉 Merged PR [#164](https://github.com/allonsy-studio/glob-concat-cli/pull/164) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+2. 🎉 Merged PR [#8](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/8) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+3. 🎉 Merged PR [#42](https://github.com/allonsy-studio/envoy/pull/42) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+4. 🎉 Merged PR [#44](https://github.com/allonsy-studio/envoy/pull/44) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+5. 🎉 Merged PR [#13](https://github.com/allonsy-studio/webc-docs/pull/13) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
