@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/allonsy-studio/webc-resources/pull/25) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
-2. 💪 Opened PR [#167](https://github.com/allonsy-studio/glob-concat-cli/pull/167) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-3. 💪 Opened PR [#21](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/21) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-4. 💪 Opened PR [#23](https://github.com/allonsy-studio/course-kit/pull/23) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-5. 💪 Opened PR [#46](https://github.com/allonsy-studio/opx/pull/46) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 🎉 Merged PR [#45](https://github.com/allonsy-studio/.github/pull/45) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 🎉 Merged PR [#47](https://github.com/allonsy-studio/.github/pull/47) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 💪 Opened PR [#25](https://github.com/allonsy-studio/webc-resources/pull/25) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+4. 💪 Opened PR [#167](https://github.com/allonsy-studio/glob-concat-cli/pull/167) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 💪 Opened PR [#21](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/21) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
