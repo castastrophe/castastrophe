@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/allonsy-studio/envoy/pull/41) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-2. 🎉 Merged PR [#12](https://github.com/allonsy-studio/webc-docs/pull/12) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-3. 🎉 Merged PR [#41](https://github.com/allonsy-studio/.github/pull/41) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-4. 🗣 Commented on [#39](https://github.com/allonsy-studio/envoy/pull/39#issuecomment-6694685071) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-5. 💪 Opened PR [#41](https://github.com/allonsy-studio/envoy/pull/41) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+1. 💪 Opened PR [#78](https://github.com/allonsy-studio/agent-skills/pull/78) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+2. 💪 Opened PR [#25](https://github.com/allonsy-studio/actions-weaver/pull/25) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+3. 💪 Opened PR [#7](https://github.com/allonsy-studio/template-actions/pull/7) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+4. 🎉 Merged PR [#40](https://github.com/allonsy-studio/envoy/pull/40) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
+5. 🗣 Commented on [#40](https://github.com/allonsy-studio/envoy/pull/40#issuecomment-6694687300) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
