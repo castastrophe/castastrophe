@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/9) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-2. 🎉 Merged PR [#43](https://github.com/allonsy-studio/envoy/pull/43) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-3. 🎉 Merged PR [#9](https://github.com/allonsy-studio/template-actions/pull/9) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-4. 🎉 Merged PR [#22](https://github.com/allonsy-studio/webc-resources/pull/22) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
-5. 🎉 Merged PR [#18](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/18) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+1. 🎉 Merged PR [#26](https://github.com/allonsy-studio/dashly/pull/26) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+2. 🎉 Merged PR [#2](https://github.com/allonsy-studio/allonsy-studio.github.io/pull/2) in [allonsy-studio/allonsy-studio.github.io](https://github.com/allonsy-studio/allonsy-studio.github.io)
+3. 🎉 Merged PR [#27](https://github.com/allonsy-studio/actions-weaver/pull/27) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+4. 🎉 Merged PR [#80](https://github.com/allonsy-studio/agent-skills/pull/80) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+5. 🎉 Merged PR [#29](https://github.com/allonsy-studio/dashly/pull/29) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
