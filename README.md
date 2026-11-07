@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/allonsy-studio/.github/pull/48) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-2. 💪 Opened PR [#48](https://github.com/allonsy-studio/.github/pull/48) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 🎉 Merged PR [#21](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/21) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-4. 🎉 Merged PR [#20](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/20) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-5. 🎉 Merged PR [#293](https://github.com/allonsy-studio/stylelint-header/pull/293) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+1. 🎉 Merged PR [#49](https://github.com/allonsy-studio/.github/pull/49) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+2. 🎉 Merged PR [#173](https://github.com/allonsy-studio/glob-concat-cli/pull/173) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+3. 💪 Opened PR [#49](https://github.com/allonsy-studio/.github/pull/49) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+4. 💪 Opened PR [#173](https://github.com/allonsy-studio/glob-concat-cli/pull/173) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 🎉 Merged PR [#48](https://github.com/allonsy-studio/.github/pull/48) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
