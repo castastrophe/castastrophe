@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#51](https://github.com/allonsy-studio/opx/issues/51) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. ❗ Opened issue [#50](https://github.com/allonsy-studio/opx/issues/50) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 💪 Opened PR [#49](https://github.com/allonsy-studio/opx/pull/49) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. 💪 Opened PR [#48](https://github.com/allonsy-studio/opx/pull/48) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. 💪 Opened PR [#31](https://github.com/allonsy-studio/dashly/pull/31) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+1. ❗ Opened issue [#57](https://github.com/allonsy-studio/opx/issues/57) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+2. ❗ Opened issue [#56](https://github.com/allonsy-studio/opx/issues/56) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+3. ❗ Opened issue [#55](https://github.com/allonsy-studio/opx/issues/55) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+4. ❗ Opened issue [#54](https://github.com/allonsy-studio/opx/issues/54) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+5. 💪 Opened PR [#53](https://github.com/allonsy-studio/opx/pull/53) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
