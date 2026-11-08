@@ -15,9 +15,9 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/allonsy-studio/opx/pull/49) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 💪 Opened PR [#48](https://github.com/allonsy-studio/opx/pull/48) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 💪 Opened PR [#294](https://github.com/allonsy-studio/stylelint-header/pull/294) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+1. ❗ Opened issue [#50](https://github.com/allonsy-studio/opx/issues/50) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+2. 💪 Opened PR [#49](https://github.com/allonsy-studio/opx/pull/49) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+3. 💪 Opened PR [#48](https://github.com/allonsy-studio/opx/pull/48) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
 4. 💪 Opened PR [#206](https://github.com/allonsy-studio/postcss-licensing/pull/206) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
 5. 💪 Opened PR [#31](https://github.com/allonsy-studio/dashly/pull/31) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
 <!--END_SECTION:activity-->
