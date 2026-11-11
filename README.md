@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/allonsy-studio/opx/pull/68) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 💪 Opened PR [#69](https://github.com/allonsy-studio/opx/pull/69) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 💪 Opened PR [#68](https://github.com/allonsy-studio/opx/pull/68) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. 💪 Opened PR [#26](https://github.com/allonsy-studio/course-kit/pull/26) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-5. 💪 Opened PR [#25](https://github.com/allonsy-studio/course-kit/pull/25) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+1. 🔒 Closed issue [#57](https://github.com/allonsy-studio/opx/issues/57) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+2. 🎉 Merged PR [#67](https://github.com/allonsy-studio/opx/pull/67) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+3. 🎉 Merged PR [#69](https://github.com/allonsy-studio/opx/pull/69) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+4. 🎉 Merged PR [#68](https://github.com/allonsy-studio/opx/pull/68) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+5. 💪 Opened PR [#69](https://github.com/allonsy-studio/opx/pull/69) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
