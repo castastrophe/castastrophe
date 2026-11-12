@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/allonsy-studio/opx/pull/83) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 🎉 Merged PR [#15](https://github.com/allonsy-studio/webc-docs/pull/15) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-3. 🎉 Merged PR [#27](https://github.com/allonsy-studio/course-kit/pull/27) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-4. 💪 Opened PR [#82](https://github.com/allonsy-studio/opx/pull/82) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. 🎉 Merged PR [#23](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/23) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+1. 💪 Opened PR [#30](https://github.com/allonsy-studio/webc-resources/pull/30) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+2. 💪 Opened PR [#28](https://github.com/allonsy-studio/course-kit/pull/28) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+3. 💪 Opened PR [#207](https://github.com/allonsy-studio/postcss-licensing/pull/207) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+4. 💪 Opened PR [#16](https://github.com/allonsy-studio/webc-docs/pull/16) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
+5. 💪 Opened PR [#32](https://github.com/allonsy-studio/dashly/pull/32) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
