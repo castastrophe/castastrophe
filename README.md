@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/allonsy-studio/course-kit/pull/26) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-2. 🎉 Merged PR [#208](https://github.com/allonsy-studio/postcss-licensing/pull/208) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
-3. ❌ Closed PR [#13](https://github.com/allonsy-studio/template-actions/pull/13) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
-4. ❌ Closed PR [#30](https://github.com/allonsy-studio/actions-weaver/pull/30) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-5. 💪 Opened PR [#14](https://github.com/allonsy-studio/template-actions/pull/14) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+1. 🎉 Merged PR [#31](https://github.com/allonsy-studio/webc-resources/pull/31) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+2. 🎉 Merged PR [#31](https://github.com/allonsy-studio/actions-weaver/pull/31) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+3. 🎉 Merged PR [#12](https://github.com/allonsy-studio/link-checker/pull/12) in [allonsy-studio/link-checker](https://github.com/allonsy-studio/link-checker)
+4. 🎉 Merged PR [#174](https://github.com/allonsy-studio/glob-concat-cli/pull/174) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 🎉 Merged PR [#18](https://github.com/allonsy-studio/webc-docs/pull/18) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
