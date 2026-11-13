@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/allonsy-studio/webc-docs/pull/17) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-2. 💪 Opened PR [#86](https://github.com/allonsy-studio/opx/pull/86) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 💪 Opened PR [#25](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/25) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-4. ❗ Opened issue [#85](https://github.com/allonsy-studio/opx/issues/85) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. 🎉 Merged PR [#84](https://github.com/allonsy-studio/opx/pull/84) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 🎉 Merged PR [#83](https://github.com/allonsy-studio/opx/pull/83) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+2. 🔒 Closed issue [#85](https://github.com/allonsy-studio/opx/issues/85) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+3. 🎉 Merged PR [#86](https://github.com/allonsy-studio/opx/pull/86) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+4. 🎉 Merged PR [#25](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/25) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
+5. 🎉 Merged PR [#17](https://github.com/allonsy-studio/webc-docs/pull/17) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
