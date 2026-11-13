@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/allonsy-studio/opx/pull/83) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-2. 🔒 Closed issue [#85](https://github.com/allonsy-studio/opx/issues/85) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. 🎉 Merged PR [#86](https://github.com/allonsy-studio/opx/pull/86) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. 🎉 Merged PR [#25](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store/pull/25) in [allonsy-studio/eleventy-plugin-netlify-data-store](https://github.com/allonsy-studio/eleventy-plugin-netlify-data-store)
-5. 🎉 Merged PR [#17](https://github.com/allonsy-studio/webc-docs/pull/17) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
+1. 🎉 Merged PR [#26](https://github.com/allonsy-studio/course-kit/pull/26) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+2. 🎉 Merged PR [#208](https://github.com/allonsy-studio/postcss-licensing/pull/208) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+3. ❌ Closed PR [#13](https://github.com/allonsy-studio/template-actions/pull/13) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+4. ❌ Closed PR [#30](https://github.com/allonsy-studio/actions-weaver/pull/30) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
+5. 💪 Opened PR [#14](https://github.com/allonsy-studio/template-actions/pull/14) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
