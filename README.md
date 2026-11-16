@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/16) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-2. 💪 Opened PR [#37](https://github.com/allonsy-studio/course-kit/pull/37) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-3. 💪 Opened PR [#15](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/15) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-4. 🎉 Merged PR [#14](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/14) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-5. 💪 Opened PR [#14](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/14) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+1. 💪 Opened PR [#39](https://github.com/allonsy-studio/actions-pr-auto-update/pull/39) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+2. 💪 Opened PR [#4](https://github.com/allonsy-studio/allonsy-studio.github.io/pull/4) in [allonsy-studio/allonsy-studio.github.io](https://github.com/allonsy-studio/allonsy-studio.github.io)
+3. 💪 Opened PR [#13](https://github.com/allonsy-studio/link-checker/pull/13) in [allonsy-studio/link-checker](https://github.com/allonsy-studio/link-checker)
+4. 💪 Opened PR [#297](https://github.com/allonsy-studio/stylelint-header/pull/297) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+5. 💪 Opened PR [#33](https://github.com/allonsy-studio/actions-weaver/pull/33) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
