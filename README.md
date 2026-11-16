@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/allonsy-studio/glob-concat-cli/pull/179) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-2. 🎉 Merged PR [#15](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/15) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-3. 💪 Opened PR [#101](https://github.com/allonsy-studio/opx/pull/101) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. 💪 Opened PR [#100](https://github.com/allonsy-studio/opx/pull/100) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. 💪 Opened PR [#99](https://github.com/allonsy-studio/opx/pull/99) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 💪 Opened PR [#36](https://github.com/allonsy-studio/dashly/pull/36) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+2. 💪 Opened PR [#53](https://github.com/allonsy-studio/.github/pull/53) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 💪 Opened PR [#17](https://github.com/allonsy-studio/template-actions/pull/17) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+4. 💪 Opened PR [#212](https://github.com/allonsy-studio/postcss-licensing/pull/212) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+5. 💪 Opened PR [#180](https://github.com/allonsy-studio/glob-concat-cli/pull/180) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
