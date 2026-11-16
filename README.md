@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/allonsy-studio/webc-resources/pull/32) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
-2. 🎉 Merged PR [#50](https://github.com/allonsy-studio/.github/pull/50) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 🎉 Merged PR [#85](https://github.com/allonsy-studio/agent-skills/pull/85) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
-4. 🎉 Merged PR [#88](https://github.com/allonsy-studio/opx/pull/88) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. 🎉 Merged PR [#34](https://github.com/allonsy-studio/dashly/pull/34) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+1. 💪 Opened PR [#13](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/13) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+2. 💪 Opened PR [#177](https://github.com/allonsy-studio/glob-concat-cli/pull/177) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+3. 💪 Opened PR [#23](https://github.com/allonsy-studio/webc-docs/pull/23) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
+4. 🎉 Merged PR [#32](https://github.com/allonsy-studio/course-kit/pull/32) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+5. 💪 Opened PR [#32](https://github.com/allonsy-studio/course-kit/pull/32) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
