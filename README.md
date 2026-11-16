@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/14) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-2. ℹ️ Labeled issue [#96](https://github.com/allonsy-studio/opx/issues/96) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-3. ❗ Opened issue [#96](https://github.com/allonsy-studio/opx/issues/96) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-4. ℹ️ Labeled issue [#95](https://github.com/allonsy-studio/opx/issues/95) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
-5. ❗ Opened issue [#95](https://github.com/allonsy-studio/opx/issues/95) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 💪 Opened PR [#16](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/16) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+2. 💪 Opened PR [#37](https://github.com/allonsy-studio/course-kit/pull/37) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+3. 💪 Opened PR [#15](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/15) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+4. 🎉 Merged PR [#14](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/14) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+5. 💪 Opened PR [#14](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/14) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
