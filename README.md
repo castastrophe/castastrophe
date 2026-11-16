@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/13) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-2. 💪 Opened PR [#177](https://github.com/allonsy-studio/glob-concat-cli/pull/177) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-3. 💪 Opened PR [#23](https://github.com/allonsy-studio/webc-docs/pull/23) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-4. 🎉 Merged PR [#32](https://github.com/allonsy-studio/course-kit/pull/32) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-5. 💪 Opened PR [#32](https://github.com/allonsy-studio/course-kit/pull/32) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+1. 🎉 Merged PR [#13](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/13) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+2. ❌ Closed PR [#23](https://github.com/allonsy-studio/webc-docs/pull/23) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
+3. 💪 Opened PR [#13](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/13) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+4. 💪 Opened PR [#177](https://github.com/allonsy-studio/glob-concat-cli/pull/177) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 💪 Opened PR [#23](https://github.com/allonsy-studio/webc-docs/pull/23) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
