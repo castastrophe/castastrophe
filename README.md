@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/allonsy-studio/webc-docs/pull/21) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-2. 🎉 Merged PR [#46](https://github.com/allonsy-studio/envoy/pull/46) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
-3. 🎉 Merged PR [#175](https://github.com/allonsy-studio/glob-concat-cli/pull/175) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-4. 🎉 Merged PR [#20](https://github.com/allonsy-studio/webc-docs/pull/20) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-5. 🎉 Merged PR [#30](https://github.com/allonsy-studio/course-kit/pull/30) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+1. 🎉 Merged PR [#32](https://github.com/allonsy-studio/webc-resources/pull/32) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+2. 🎉 Merged PR [#50](https://github.com/allonsy-studio/.github/pull/50) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 🎉 Merged PR [#85](https://github.com/allonsy-studio/agent-skills/pull/85) in [allonsy-studio/agent-skills](https://github.com/allonsy-studio/agent-skills)
+4. 🎉 Merged PR [#88](https://github.com/allonsy-studio/opx/pull/88) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+5. 🎉 Merged PR [#34](https://github.com/allonsy-studio/dashly/pull/34) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
