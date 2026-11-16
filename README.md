@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/allonsy-studio/course-kit/pull/34) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-2. 🎉 Merged PR [#13](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/13) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-3. ❌ Closed PR [#23](https://github.com/allonsy-studio/webc-docs/pull/23) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-4. 💪 Opened PR [#13](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/13) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-5. 💪 Opened PR [#177](https://github.com/allonsy-studio/glob-concat-cli/pull/177) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+1. 💪 Opened PR [#14](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/14) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+2. ℹ️ Labeled issue [#96](https://github.com/allonsy-studio/opx/issues/96) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+3. ❗ Opened issue [#96](https://github.com/allonsy-studio/opx/issues/96) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+4. ℹ️ Labeled issue [#95](https://github.com/allonsy-studio/opx/issues/95) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+5. ❗ Opened issue [#95](https://github.com/allonsy-studio/opx/issues/95) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
