@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/allonsy-studio/webc-resources/pull/31) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
-2. 🎉 Merged PR [#31](https://github.com/allonsy-studio/actions-weaver/pull/31) in [allonsy-studio/actions-weaver](https://github.com/allonsy-studio/actions-weaver)
-3. 🎉 Merged PR [#12](https://github.com/allonsy-studio/link-checker/pull/12) in [allonsy-studio/link-checker](https://github.com/allonsy-studio/link-checker)
-4. 🎉 Merged PR [#174](https://github.com/allonsy-studio/glob-concat-cli/pull/174) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
-5. 🎉 Merged PR [#18](https://github.com/allonsy-studio/webc-docs/pull/18) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
+1. 💪 Opened PR [#30](https://github.com/allonsy-studio/course-kit/pull/30) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+2. 💪 Opened PR [#32](https://github.com/allonsy-studio/webc-resources/pull/32) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+3. 💪 Opened PR [#21](https://github.com/allonsy-studio/webc-docs/pull/21) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
+4. 💪 Opened PR [#15](https://github.com/allonsy-studio/template-actions/pull/15) in [allonsy-studio/template-actions](https://github.com/allonsy-studio/template-actions)
+5. 💪 Opened PR [#296](https://github.com/allonsy-studio/stylelint-header/pull/296) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
