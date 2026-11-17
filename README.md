@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/23) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-2. 🎉 Merged PR [#22](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/22) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-3. 🎉 Merged PR [#18](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/18) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-4. 🎉 Merged PR [#17](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/17) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
-5. 🎉 Merged PR [#20](https://github.com/allonsy-studio/markdown-it-anchor-sections/pull/20) in [allonsy-studio/markdown-it-anchor-sections](https://github.com/allonsy-studio/markdown-it-anchor-sections)
+1. 🎉 Merged PR [#40](https://github.com/allonsy-studio/actions-pr-auto-update/pull/40) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+2. 🎉 Merged PR [#55](https://github.com/allonsy-studio/.github/pull/55) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+3. 🎉 Merged PR [#39](https://github.com/allonsy-studio/actions-pr-auto-update/pull/39) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
+4. 🎉 Merged PR [#54](https://github.com/allonsy-studio/.github/pull/54) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+5. 🎉 Merged PR [#53](https://github.com/allonsy-studio/.github/pull/53) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
