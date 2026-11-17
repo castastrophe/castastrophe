@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/allonsy-studio/course-kit/pull/41) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-2. 💪 Opened PR [#41](https://github.com/allonsy-studio/course-kit/pull/41) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-3. 🎉 Merged PR [#25](https://github.com/allonsy-studio/webc-docs/pull/25) in [allonsy-studio/webc-docs](https://github.com/allonsy-studio/webc-docs)
-4. 🎉 Merged PR [#41](https://github.com/allonsy-studio/actions-pr-auto-update/pull/41) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
-5. 💪 Opened PR [#19](https://github.com/allonsy-studio/actions-file-diff/pull/19) in [allonsy-studio/actions-file-diff](https://github.com/allonsy-studio/actions-file-diff)
+1. 🎉 Merged PR [#212](https://github.com/allonsy-studio/postcss-licensing/pull/212) in [allonsy-studio/postcss-licensing](https://github.com/allonsy-studio/postcss-licensing)
+2. 🎉 Merged PR [#44](https://github.com/allonsy-studio/course-kit/pull/44) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+3. 💪 Opened PR [#44](https://github.com/allonsy-studio/course-kit/pull/44) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+4. 🎉 Merged PR [#35](https://github.com/allonsy-studio/webc-resources/pull/35) in [allonsy-studio/webc-resources](https://github.com/allonsy-studio/webc-resources)
+5. 🎉 Merged PR [#49](https://github.com/allonsy-studio/envoy/pull/49) in [allonsy-studio/envoy](https://github.com/allonsy-studio/envoy)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
