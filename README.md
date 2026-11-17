@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/allonsy-studio/actions-pr-auto-update/pull/40) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
-2. 🎉 Merged PR [#55](https://github.com/allonsy-studio/.github/pull/55) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-3. 🎉 Merged PR [#39](https://github.com/allonsy-studio/actions-pr-auto-update/pull/39) in [allonsy-studio/actions-pr-auto-update](https://github.com/allonsy-studio/actions-pr-auto-update)
-4. 🎉 Merged PR [#54](https://github.com/allonsy-studio/.github/pull/54) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
-5. 🎉 Merged PR [#53](https://github.com/allonsy-studio/.github/pull/53) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+1. 🎉 Merged PR [#36](https://github.com/allonsy-studio/dashly/pull/36) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+2. 🎉 Merged PR [#35](https://github.com/allonsy-studio/dashly/pull/35) in [allonsy-studio/dashly](https://github.com/allonsy-studio/dashly)
+3. 🎉 Merged PR [#56](https://github.com/allonsy-studio/.github/pull/56) in [allonsy-studio/.github](https://github.com/allonsy-studio/.github)
+4. 🎉 Merged PR [#180](https://github.com/allonsy-studio/glob-concat-cli/pull/180) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
+5. 🎉 Merged PR [#179](https://github.com/allonsy-studio/glob-concat-cli/pull/179) in [allonsy-studio/glob-concat-cli](https://github.com/allonsy-studio/glob-concat-cli)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
