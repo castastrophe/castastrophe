@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#46](https://github.com/allonsy-studio/course-kit/issues/46) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-2. 🎉 Merged PR [#47](https://github.com/allonsy-studio/course-kit/pull/47) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-3. 💪 Opened PR [#47](https://github.com/allonsy-studio/course-kit/pull/47) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-4. ❗ Opened issue [#46](https://github.com/allonsy-studio/course-kit/issues/46) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-5. 🎉 Merged PR [#82](https://github.com/allonsy-studio/opx/pull/82) in [allonsy-studio/opx](https://github.com/allonsy-studio/opx)
+1. 💪 Opened PR [#50](https://github.com/allonsy-studio/course-kit/pull/50) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+2. 💪 Opened PR [#49](https://github.com/allonsy-studio/course-kit/pull/49) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+3. 🔒 Closed issue [#46](https://github.com/allonsy-studio/course-kit/issues/46) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+4. 🎉 Merged PR [#47](https://github.com/allonsy-studio/course-kit/pull/47) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
+5. 💪 Opened PR [#47](https://github.com/allonsy-studio/course-kit/pull/47) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
