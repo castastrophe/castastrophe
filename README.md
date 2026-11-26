@@ -15,11 +15,11 @@ Visit [allons-y.studio](http://allons-y.studio/) for more about how we might wor
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/allonsy-studio/course-kit/pull/49) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
-2. 💪 Opened PR [#301](https://github.com/allonsy-studio/stylelint-header/pull/301) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-3. ℹ️ Labeled issue [#300](https://github.com/allonsy-studio/stylelint-header/issues/300) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-4. ❗ Opened issue [#300](https://github.com/allonsy-studio/stylelint-header/issues/300) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
-5. 💪 Opened PR [#299](https://github.com/allonsy-studio/stylelint-header/pull/299) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+1. 🔒 Closed issue [#300](https://github.com/allonsy-studio/stylelint-header/issues/300) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+2. 🎉 Merged PR [#301](https://github.com/allonsy-studio/stylelint-header/pull/301) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+3. 🔒 Closed issue [#288](https://github.com/allonsy-studio/stylelint-header/issues/288) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+4. 🎉 Merged PR [#299](https://github.com/allonsy-studio/stylelint-header/pull/299) in [allonsy-studio/stylelint-header](https://github.com/allonsy-studio/stylelint-header)
+5. 🎉 Merged PR [#49](https://github.com/allonsy-studio/course-kit/pull/49) in [allonsy-studio/course-kit](https://github.com/allonsy-studio/course-kit)
 <!--END_SECTION:activity-->
 
 ## Funding ☕️
